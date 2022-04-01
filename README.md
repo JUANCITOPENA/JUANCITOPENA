@@ -30,7 +30,7 @@
   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://developer.asustor.com/uploadIcons/0020_999_1617260086_postgresql-icon_256.png">
   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
- 
+ <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
 
    </div>
   
