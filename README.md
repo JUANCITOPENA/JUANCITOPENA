@@ -13,9 +13,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  ---->
  </div>
-  <h3>
+  <h2>
  👾 Principal Stack
-</h3> 
+</h2> 
   <h4>🎨 ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</h4>
 <div style="display: inline_block"><br>
  
@@ -23,7 +23,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
-    <h4>💻 ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</h4>
+ 
+  <!---<h4>💻 ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</h4>--->
+  <h2>💻 ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</h2>
+ 
 <div style="display: inline_block"><br>
  
 
@@ -39,8 +42,8 @@
 
    </div>
   
-  <h4>ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h4>
-
+ <!--- <h4>ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h4>--->
+  <h2>ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h2>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -69,8 +72,8 @@
   
   ##
  
-  <h4>Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>
-    <h2>SOCIAL MEDIA</h2>
+ <!--- <h4>Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>--->
+  <h2>SOCIAL MEDIA</h2>
 <div> 
 
  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png">
