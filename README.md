@@ -28,13 +28,13 @@
  
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://kmyr.dev/posts/csharp.png">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://developer.asustor.com/uploadIcons/0020_999_1617260086_postgresql-icon_256.png">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://external-preview.redd.it/CO1gZp4U3q33m9i_7f2Fveb-m-YvxITLvVN_VhTwhGQ.jpg?auto=webp&s=3be1c571cd55e06900f90e1365f48f7779a1a5a4">
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://kmyr.dev/posts/csharp.png">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://developer.asustor.com/uploadIcons/0020_999_1617260086_postgresql-icon_256.png">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://external-preview.redd.it/CO1gZp4U3q33m9i_7f2Fveb-m-YvxITLvVN_VhTwhGQ.jpg?auto=webp&s=3be1c571cd55e06900f90e1365f48f7779a1a5a4">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
 
    </div>
  
@@ -42,12 +42,12 @@
  
  <div style="display: inline_block"><br>
   
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
   
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://external-preview.redd.it/CO1gZp4U3q33m9i_7f2Fveb-m-YvxITLvVN_VhTwhGQ.jpg?auto=webp&s=3be1c571cd55e06900f90e1365f48f7779a1a5a4">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://external-preview.redd.it/CO1gZp4U3q33m9i_7f2Fveb-m-YvxITLvVN_VhTwhGQ.jpg?auto=webp&s=3be1c571cd55e06900f90e1365f48f7779a1a5a4">
+  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png">
 
  </div>
  
@@ -55,8 +55,8 @@
  <h2>📳 MOVIL DEVELOPMENT</ </h2>
  
  <div style="display: inline_block"><br>
-   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2249/PNG/512/xamarin_outline_icon_139072.png">
-   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2080/PNG/512/android_mobile_os_media_social_icon_127328.png">
+   <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2249/PNG/512/xamarin_outline_icon_139072.png">
+   <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2080/PNG/512/android_mobile_os_media_social_icon_127328.png">
  </div>
  
  
@@ -93,17 +93,17 @@
   <h2>SOCIAL MEDIA</h2>
 <div> 
 
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png">
 
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/70/PNG/512/youtube_14198.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/70/PNG/512/youtube_14198.png">
  
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png">
 
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png">
 
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png">
 
- <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robots_icon_132026.png">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robots_icon_132026.png">
 
   
  ![Snake animation](https://github.com/kodosensei/kodosensei/blob/output/github-contribution-grid-snake.svg)
