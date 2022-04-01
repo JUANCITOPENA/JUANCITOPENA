@@ -31,9 +31,11 @@
   <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://developer.asustor.com/uploadIcons/0020_999_1617260086_postgresql-icon_256.png">
   <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
  
+ <---
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/postgres-008C84?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/sqlserver-00bD1e?style=for-the-badge&logo=sqlserver&logoColor=white">
+ --->
    </div>
   
   <h4>ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h4>
