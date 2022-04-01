@@ -22,7 +22,7 @@
  
 
   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2249/PNG/512/xamarin_outline_icon_139072.png">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png">
+  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://kmyr.dev/posts/csharp.png">
   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2080/PNG/512/android_mobile_os_media_social_icon_127328.png">
   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
  
