@@ -25,9 +25,12 @@
   <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2249/PNG/512/xamarin_outline_icon_139072.png">
   <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png">
   <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2080/PNG/512/android_mobile_os_media_social_icon_127328.png">
-  <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
  
-  <img align="center" alt="Kodo-CSS" height="50" width="40"src="https://cdn.icon-icons.com/icons2/2080/PNG/512/android_mobile_os_media_social_icon_127328.png">
+  <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
+  <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://developer.asustor.com/uploadIcons/0020_999_1617260086_postgresql-icon_256.png">
+  <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
+ 
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/postgres-008C84?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/sqlserver-00bD1e?style=for-the-badge&logo=sqlserver&logoColor=white">
