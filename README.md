@@ -58,7 +58,8 @@
  
   <h4>Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>
 <div> 
- <img src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png?style=for-the-badge&logo=notion&logoColor=white">
+
+ <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png">
     <a href="https://www.linkedin.com/in/juancitope%C3%B1a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
      
 
