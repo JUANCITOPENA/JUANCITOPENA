@@ -40,6 +40,7 @@
    </div>
   
   <h4>ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h4>
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -69,6 +70,7 @@
   ##
  
   <h4>Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>
+    <h2>SOCIAL MEDIA</h2>
 <div> 
 
  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png">
