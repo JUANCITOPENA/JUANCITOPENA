@@ -26,8 +26,8 @@
   <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png">
   <img align="center" alt="Kodo-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 
-  <img align="center" alt="Kodo-CSS" height="50" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Kodo-CSS" height="50" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/postgres-008C84?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/sqlserver-00bD1e?style=for-the-badge&logo=sqlserver&logoColor=white">
    </div>
