@@ -45,11 +45,11 @@
  
    <h2>📊 Data Analyst </h2>
  <div style="display: inline_block"><br>
+     <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
    <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://external-preview.redd.it/CO1gZp4U3q33m9i_7f2Fveb-m-YvxITLvVN_VhTwhGQ.jpg?auto=webp&s=3be1c571cd55e06900f90e1365f48f7779a1a5a4">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
-  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://developer.asustor.com/uploadIcons/0020_999_1617260086_postgresql-icon_256.png">
   <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
  <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
+ <img align="center" alt="Kodo-CSS" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png">
 
  
     </div>
