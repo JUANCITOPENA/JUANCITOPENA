@@ -56,14 +56,11 @@
   
   ##
  
-  <h4>ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>
+  <h4>Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>
 <div> 
-    <a href="https://www.linkedin.com/in/juancitope%C3%B1a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
-  <a href="https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
- 
-  <a href="https://twitter.com/JuancitoPenaV" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  
-   <a href="https://www.instagram.com/juancito.pena.v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/juancitope%C3%B1a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     
+
   
   
  ![Snake animation](https://github.com/kodosensei/kodosensei/blob/output/github-contribution-grid-snake.svg)
