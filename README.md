@@ -69,7 +69,7 @@
 
  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png">
 
- <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://advisertecnology.com/">
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robots_icon_132026.png">
 
   
  ![Snake animation](https://github.com/kodosensei/kodosensei/blob/output/github-contribution-grid-snake.svg)
