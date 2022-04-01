@@ -1,5 +1,5 @@
-## Hola Chicos! aquí Kodo Sensei!!
-<a href="https://github.com/kodosensei">
+## Hola Bienvenidos! aquí Juancito Peña Vizcaino!
+<a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 
 
