@@ -54,6 +54,7 @@
  <h2>📳 Movil Development </ </h2>
  
  <div style="display: inline_block"><br>
+   <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://usercontent.one/wp/www.jennerstrand.se/wp-content/uploads/2021/09/net-maui-robot.png">
    <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2249/PNG/512/xamarin_outline_icon_139072.png">
    <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2080/PNG/512/android_mobile_os_media_social_icon_127328.png">
  </div>
@@ -103,7 +104,6 @@
  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png">
 
  <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robots_icon_132026.png">
-
   
  ![Snake animation](https://github.com/kodosensei/kodosensei/blob/output/github-contribution-grid-snake.svg)
  </div> 
