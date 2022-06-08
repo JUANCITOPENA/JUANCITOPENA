@@ -4,7 +4,7 @@
 
  ### Soy un 👨‍🎓 Profesional de Tecnología multiciplinario, con más de 15 años de experiencia trabajando con 💻 Sistemas Integrales, CRM, y ERP, Orientados a Procesos Tecnológicos, Administrativos, Productivos y del sector del Marketing. Soy un Apasionado de las Tecnologías, y los aportes a las mejoras Productivas, de Negocios y de Educación que brindan.
 
- ### Me apasiona el Desarrollo Web sus tencologias, EL Dasarrollo Movil, el Analisis de Datos, y Adoro Enseñar,  como las 4 areas de mayor interes.
+ ### ❤ Me apasiona el Desarrollo Web sus tencologias, EL Dasarrollo Movil, el Analisis de Datos, y Adoro Enseñar,  como las 4 areas de mayor interes.
 
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
