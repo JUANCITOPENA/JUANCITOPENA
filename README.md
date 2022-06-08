@@ -2,6 +2,7 @@
 <a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 
+ ##  Soy un Profesional de Tecnología multiciplinario, con más de 15 años de experiencia trabajando con Sistemas Integrales, CRM, y ERP, Orientados a Procesos Tecnológicos, Administrativos, Productivos y del sector de las Ventas. Soy un Apasionado de las Tecnologías, y los aportes a las mejoras Productivas, de Negocios y de Educación que brindan. 
 
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
