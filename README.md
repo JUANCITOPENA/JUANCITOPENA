@@ -2,6 +2,9 @@
 <a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 
+ ####
+ Apacionado por el Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner) | Amante de la Tecnologias (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress, Xamarin, C#) Me Gusta Aprender y Enseñar lo que aprendo, por Ello me converti en Technology Teacher
+ 
  ### Soy Ingeniero en Sistemas y Computacion, con Especialidad en Desarrollo de Software, y con una Maestria en Sistema Mencion Gerencia, me considero un  👨‍🎓 Profesional multiciplinario, con más de 15 años de experiencia trabajando con 💻 Sistemas Integrales, CRM, y ERP, Orientados a Procesos Tecnológicos, Administrativos, Productivos y del sector del Marketing. Apasionado de las Tecnologías, y los aportes a las mejoras Productivas, de Negocios y de Educación que brindan, ❤ Me apasiona el Desarrollo Web sus tencologias, EL Dasarrollo Movil, el Analisis de Datos, y Adoro Enseñar,  como las 4 areas de mayor interes.
 
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
