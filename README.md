@@ -2,12 +2,10 @@
 <a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 
- ####  👨‍🎓 Ingeniero en Sistemas y Computacion.
- ####  👨‍🎓 Especialidad en Desarrollo de Software.
- ####  👨‍🎓 Maestria en Sistema Mencion Gerencia.
+ ####  👨‍🎓 Ingeniero en Sistemas y Computacion, 👨‍🎓 Especialidad en Desarrollo de Software, 👨‍🎓 Maestria en Sistema Mencion Gerencia.
  ####  👨‍🎓 Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
  ####  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
- ####  📲 Developer Movil Net. Maui, Xamarin,C#.
+
 
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
