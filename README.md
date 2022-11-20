@@ -3,13 +3,14 @@
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
  
+ <!--
  ####  👨‍🎓 Ingeniero en Sistemas y Computacion.
  ####  🎓 Especialidad en Desarrollo de Software.
  ####  🎓 Maestria en Sistema Mencion Gerencia.
  ####  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
  ####  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
  ####
-
+-->
 
 MIs Redes Sociales:
  
