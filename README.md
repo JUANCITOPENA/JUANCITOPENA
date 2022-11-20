@@ -8,12 +8,12 @@
  ###  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
  ###  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
 
-
+ <!---
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&langs_count=7&theme=dracula"/>   
 
- <!---
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
