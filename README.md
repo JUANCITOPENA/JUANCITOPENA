@@ -73,3 +73,54 @@ Sigueme en:
  
  
 
+  <h2>ᴛᴏᴏʟꜱ & ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ</h2>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+  <!---
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+--->
+</p>
+ <!---
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  --->
+  
+  <!---
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+--->
+ 
+
+  
+  ##
+ 
+ <!--- <h4>Sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ</h4>--->
+  <h2> Social Media </h2>
+<div> 
+
+ <a href="https://www.linkedin.com/in/juancitope%C3%B1a/" target="_blank"> <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png"></a>
+
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/70/PNG/512/youtube_14198.png">
+ 
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png">
+
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png">
+
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png">
+
+ <img align="center" alt="Kodo-CSS" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robots_icon_132026.png">
+  
+ ![Snake animation](https://github.com/kodosensei/kodosensei/blob/output/github-contribution-grid-snake.svg)
+ </div> 
+
+
+    
+ 
