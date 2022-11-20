@@ -2,8 +2,8 @@
 <a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 
- ####  👨‍🎓 Ingeniero en Sistemas y Computacion, 👨‍🎓 Especialidad en Desarrollo de Software, 👨‍🎓 Maestria en Sistema Mencion Gerencia.
- ####  👨‍🎓 Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
+ ####  👨‍🎓 Soy Ingeniero en Sistemas y Computacion, con una Especialidad en Desarrollo de Software y una 🎓 Maestria en Sistema Mencion Gerencia.
+ ####  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
  ####  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
 
 
