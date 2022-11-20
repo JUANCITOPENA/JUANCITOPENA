@@ -8,6 +8,7 @@
  ###  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
  ###  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
 
+ <hr>
  <!---
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
