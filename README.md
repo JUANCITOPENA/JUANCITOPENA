@@ -1,7 +1,7 @@
 # 😊 Hola Bienvenidos! Soy Juancito Peña Vizcaino!
 <a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
-Learning Engineer at @platzi - Microsoft MVP - Lead at Developer Circles from Meta, #JavaScript #React #Web3 #BTC #ETH - #Twitch Partner - 🇲🇽 🇨🇴
+Ingeniero de Aprendizaje en @O&M - Ingeniero en Cerveceria Vegana #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
  
  ####  👨‍🎓 Ingeniero en Sistemas y Computacion.
  ####  🎓 Especialidad en Desarrollo de Software.
