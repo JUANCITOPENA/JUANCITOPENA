@@ -4,14 +4,13 @@
 Ingeniero de Aprendizaje en @O&M - Tecnico en @Cerveceria Vegana, ⚙ Mis Skill: #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
 <br>
 
-MIs Redes Sociales:
+Sigueme en:
 
 
-- 📚 Courses: [https://www.linkedin.com/in/juancitope%C3%B1a/]
-- 🎥 Twitch Channel: https://twitch.tv/gndxdev/
-- 📺 Youtube Channel: https://youtube.com/oscarbarajas/
-- 🎙️ Podcast: https://gndx.dev/podcast/
-
+- 📚 Linkedin: https://www.linkedin.com/in/juancitope%C3%B1a/
+- 📺 Youtube Channel: https://youtube.com/c/JuancitoPe%C3%B1aV
+- 📸 Instagram: https://www.instagram.com/juancito.pena.v/
+- 🌍 Adivisertecnology: https://advisertecnology.com/
  <!---
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
