@@ -3,8 +3,8 @@
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 
  ####  👨‍🎓 Soy Ingeniero en Sistemas y Computacion.
- con una Especialidad en Desarrollo de Software.
- y una 🎓 Maestria en Sistema Mencion Gerencia.
+ ####   🎓 Especialidad en Desarrollo de Software.
+ ####  🎓 Maestria en Sistema Mencion Gerencia.
  ####  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
  ####  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
 
