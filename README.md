@@ -7,6 +7,7 @@
  ###  🎓 Maestria en Sistema Mencion Gerencia.
  ###  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
  ###  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
+ ###
 
 
  <!---
