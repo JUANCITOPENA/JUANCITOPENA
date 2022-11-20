@@ -2,11 +2,11 @@
 <a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 
- ####  👨‍🎓 Soy Ingeniero en Sistemas y Computacion.
- ####   🎓 Especialidad en Desarrollo de Software.
- ####  🎓 Maestria en Sistema Mencion Gerencia.
- ####  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
- ####  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
+ ###  👨‍🎓 Soy Ingeniero en Sistemas y Computacion.
+ ###   🎓 Especialidad en Desarrollo de Software.
+ ###  🎓 Maestria en Sistema Mencion Gerencia.
+ ###  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
+ ###  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
 
 
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
