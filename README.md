@@ -2,7 +2,7 @@
 <a href="https://github.com/JUANCITOPENA">
 <div style="display: flex; flex-direction: wrap; width:100%; margin:auto; justify-content:center;">
 Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
-  ####
+<br>
  <!--
  ####  👨‍🎓 Ingeniero en Sistemas y Computacion.
  ####  🎓 Especialidad en Desarrollo de Software.
@@ -11,9 +11,9 @@ Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, #SQL Server, # 
  ####  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
  ####
 -->
- ####
+<br>
 MIs Redes Sociales:
- 
+ <br>
 - 📚 Courses: https://platzi.com/conoceme/gndx/
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
 - 📺 Youtube Channel: https://youtube.com/oscarbarajas/
