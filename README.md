@@ -3,16 +3,11 @@
  
 Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
 <br>
- <!--
- ####  👨‍🎓 Ingeniero en Sistemas y Computacion.
- ####  🎓 Especialidad en Desarrollo de Software.
- ####  🎓 Maestria en Sistema Mencion Gerencia.
- ####  👨‍🎓 Apasionado del Data Analyst (SQL, Excel, Power BI, R, Python, RapidMiner, Crystal Report) 
- ####  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
- ####
--->
+
 <br>
-### MIs Redes Sociales:
+
+MIs Redes Sociales:
+
  <br>
 - 📚 Courses: https://platzi.com/conoceme/gndx/
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
