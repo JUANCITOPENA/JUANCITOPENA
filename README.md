@@ -11,8 +11,8 @@ Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, #SQL Server, # 
  ####
 
 
-Learning Engineer at @platzi - Microsoft MVP - Lead at Developer Circles from Meta, #JavaScript #React #Web3 #BTC #ETH - #Twitch Partner - 🇲🇽 🇨🇴
-
+MIs Redes Sociales:
+ 
 - 📚 Courses: https://platzi.com/conoceme/gndx/
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
 - 📺 Youtube Channel: https://youtube.com/oscarbarajas/
