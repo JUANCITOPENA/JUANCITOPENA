@@ -1,7 +1,7 @@
 # 😊 Hola Bienvenidos! Soy Juancito Peña Vizcaino!
 
  
-Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
+Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, ⚙ Mis Skill: #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
 <br>
 
 MIs Redes Sociales:
