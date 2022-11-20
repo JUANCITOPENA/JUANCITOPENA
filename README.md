@@ -1,13 +1,13 @@
 # 😊 Hola Bienvenidos! Soy Juancito Peña Vizcaino!
 
  
-Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, ⚙ Mis Skill: #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
+Ingeniero de Aprendizaje en @O&M - Tecnico en @Cerveceria Vegana, ⚙ Mis Skill: #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
 <br>
 
 MIs Redes Sociales:
 
 
-- 📚 Courses: https://platzi.com/conoceme/gndx/
+- 📚 Courses: [https://www.linkedin.com/in/juancitope%C3%B1a/]
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
 - 📺 Youtube Channel: https://youtube.com/oscarbarajas/
 - 🎙️ Podcast: https://gndx.dev/podcast/
