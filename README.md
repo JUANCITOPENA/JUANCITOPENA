@@ -4,11 +4,9 @@
 Ingeniero de Aprendizaje en @O&M - Tecnico en Cerveceria Vegana, #SQL Server, # Excel, #Crystal Report, #Power BI,#JavaScript #React #Web3 #BTC #ETH -#CEO Advisertecnology - RD d🇴
 <br>
 
-<br>
-
 MIs Redes Sociales:
 
- <br>
+
 - 📚 Courses: https://platzi.com/conoceme/gndx/
 - 🎥 Twitch Channel: https://twitch.tv/gndxdev/
 - 📺 Youtube Channel: https://youtube.com/oscarbarajas/
