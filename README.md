@@ -9,6 +9,14 @@
  ###  🖥 Desarrollo Web (HTML, CSS, Javascript, Bootstrap, PHP, Wordpress)
  ###
 
+ ### Hi there 👋
+
+Learning Engineer at @platzi - Microsoft MVP - Lead at Developer Circles from Meta, #JavaScript #React #Web3 #BTC #ETH - #Twitch Partner - 🇲🇽 🇨🇴
+
+- 📚 Courses: https://platzi.com/conoceme/gndx/
+- 🎥 Twitch Channel: https://twitch.tv/gndxdev/
+- 📺 Youtube Channel: https://youtube.com/oscarbarajas/
+- 🎙️ Podcast: https://gndx.dev/podcast/
 
  <!---
  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
