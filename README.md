@@ -57,8 +57,22 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 📜 Certificaciones 📜
 
-- Certificado en [Scrum Foundation Professional Certification - SFPC] | [CertiProf] | [2020]
-- Certificado en [Fundamentos de Ingeniería de Software] | [Platzi] | [2020]
+ - Certificado en [Scrum Foundation Professional Certification - SFPC] | [CertiProf] | [2020]
+ - Certificado en [Fundamentos de Ingeniería de Software] | [Platzi] | [2020]
+ - Certificado en [Conviértete en Data Analyst (Big Data, Python, R, Power Bi, Excel, varias Tecnicas ] [Linkedin Learning] [2021]
+ - Certificado en [Power BI – Análisis de Datos y Business Intelligence, Excel, Dashboards, y DAX] [UDEMY] [2020)]
+ - Certificado en [Master en Python (Python, MySQL, SQLite, POO, Tkinker, Django 3, Flask, etc)] [UDEMY] [2022]
+ - Certificado en [Master en JavaScript: jQuery, JSON, Ajax, TypeScript, Angular, Node, MEAN ] [UDEMY] [2018]
+ - Certificado en [Master en CSS (SASS, Less, Flexbox, Grid y Bootstrap,] [UDEMY] [2020]
+ - Certificado en [Master Frameworks para JavaScript (Angular 8, React JS, Vue.js, Node y +)] [UDEMY] [2021]
+ - Certificado en [Master en PHP, SQL, MySQL, POO, MVC, Laravel5, Symfony 4, WordPress + ] [UDEMY] [2021]
+ - Certificado en [Curso Introducción a Bitcoin y a la Tecnología Blockchain ] [Udemy] [2019]
+ - Certificado en [Cybersecurity Essentials (Cisco) ] [Exae] [2018]
+ - Certificado en [Hacking Etico de Cero a Cien ( Ciberseguridad y Ciberdefensa) ] [UDEMY] [2021]
+ - Certificado en [Tecnico en Informatica (Paquete Offimatico)] [CENTU] [2001]
+ - Certificado en [Tecnico en Desarrollo de Página WEB (ASP.Net, C#, SQL Server) ] [CENTU] [2012]
+ - Certificado en [Tecnico en Mantenimiento de Redes y Cableado Estructurado ][Infotep] [2008]
+ - Certificado en [Reingenieria Aplicada a los Procesos- Justo a Tiempo] [Infotep] [2010]
 
 ## 📧 Contacto 📧
 
