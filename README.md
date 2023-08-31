@@ -76,7 +76,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 📧 Contacto 📧
 
-- LinkedIn: [[Tu perfil de LinkedIn](https://www.linkedin.com/in/juancitope%C3%B1a/)]
+- LinkedIn:[(https://www.linkedin.com/in/juancitope%C3%B1a/)]
 - Correo Electrónico: [Juancito.pena@gmail.com]
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por nuevas oportunidades y desafíos en el mundo de la tecnología y el desarrollo de software.
