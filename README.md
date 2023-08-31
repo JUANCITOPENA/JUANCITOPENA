@@ -40,10 +40,6 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 🚀 Proyectos Destacados 🚀
 
-## Proyectos Destacados
-
-## Proyectos Destacados
-
 ### 📖 [Creación de mi Blog Personal (2022)](https://advisertecnology.com/)
 - En mi blog personal, comparto investigaciones, conocimientos y consejos sobre las últimas tendencias en tecnología. Si eres un entusiasta de la tecnología, encontrarás contenido valioso aquí. ¡Disfruta leyendo y no dudes en conectarte conmigo en las redes sociales!
 
@@ -55,6 +51,11 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ### 🌐 [Portafolio Web (Visitar)](https://juancitopena.github.io/PORTAFOLIO_WEB_JPV/portafolio.html)
 - En mi portafolio web, puedes explorar mi trabajo y proyectos en detalle. Encontrarás una variedad de proyectos emocionantes. Estos proyectos incluyen Dashboards y análisis de datos con visualizaciones impactantes, segmentadores, tecnologías de base de datos y Power BI. Son la muestra del poder del análisis de datos, ¡visita mi portafolio para conocer más sobre mi trabajo!
+
+## Buscador de Usuarios de GitHub | 2023
+- [Visitar Proyecto](https://juancitopena.github.io/Buscador_de_usuarios_de_GitHub/)
+Un buscador de usuarios de GitHub que utiliza la API de GitHub para encontrar usuarios y mostrar su información pública. Descubre detalles como el nombre de usuario, ubicación, biografía y enlace directo a su perfil de GitHub. Creado con HTML, CSS y JavaScript para una experiencia rápida y sencilla.
+
 
 ## 💼 Habilidades: 💼
 
