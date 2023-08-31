@@ -1,53 +1,63 @@
-# 😊 ¡Hola, Bienvenidos! Soy Juancito Peña Vizcaíno!
+# Perfil de [Tu Nombre]
 
-Soy Ingeniero en Sistemas, Profesor de Tecnologías para el Aprendizaje en @O&M, Técnico en @Cervecería Vegana y CEO en Adviser Technology. 
+## Resumen
 
-## Sígueme en:
+Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el desarrollo de software. Mi experiencia abarca varias áreas, incluyendo desarrollo de software, análisis de datos, desarrollo móvil y bases de datos. He trabajado en una variedad de proyectos desafiantes y siempre estoy buscando aprender y mejorar mis habilidades.
 
-- 📚 [Linkedin](https://www.linkedin.com/in/juancitope%C3%B1a/)
-- 📺 [YouTube Channel](https://youtube.com/c/JuancitoPe%C3%B1aV)
-- 📸 [Instagram](https://www.instagram.com/juancito.pena.v/)
-- 🌍 [Adviser Technology](https://advisertecnology.com/)
+## Experiencia
 
-## 👾 Principal Stack
+### Desarrollador de Software | [Nombre de la Empresa] | [Fecha de Inicio] - [Fecha de Finalización]
 
-### 🎨 Frontend Development
+- Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como [Tecnología 1], [Tecnología 2], [Tecnología 3].
+- Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
+- Mantenimiento y mejora de aplicaciones existentes.
 
-<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="React" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
+### Data Analyst | [Nombre de la Empresa] | [Fecha de Inicio] - [Fecha de Finalización]
 
-### 💻 Backend Development 
+- Análisis de datos para identificar patrones y tendencias.
+- Creación de informes y visualizaciones para comunicar resultados a partes interesadas.
+- Uso de herramientas como [Herramienta 1], [Herramienta 2], [Herramienta 3] para el análisis de datos.
 
-<img align="center" alt="C#" height="40" width="40" src="https://kmyr.dev/posts/csharp.png">
-<img align="center" alt="PHP" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
-<img align="center" alt="MySQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
-<img align="center" alt="PostgreSQL" height="40" width="40" src="https://developer.asustor.com/uploadIcons/0020_999_1617260086_postgresql-icon_256.png">
-<img align="center" alt="SQL Server" height="40" width="40" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
-<img align="center" alt="Python" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
+### Mobile Developer | [Nombre de la Empresa] | [Fecha de Inicio] - [Fecha de Finalización]
 
-### 📊 Data Analyst 
+- Desarrollo de aplicaciones móviles para plataformas iOS y Android.
+- Implementación de funcionalidades clave y mejoras de rendimiento.
+- Pruebas y depuración de aplicaciones en dispositivos reales.
 
-<img align="center" alt="Excel" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
-<img align="center" alt="Power BI" height="40" width="40" src="https://external-preview.redd.it/CO1gZp4U3q33m9i_7f2Fveb-m-YvxITLvVN_VhTwhGQ.jpg?auto=webp&s=3be1c571cd55e06900f90e1365f48f7779a1a5a4">
-<img align="center" alt="SQL Server" height="40" width="40" src="https://www.gpsos.es/wp-content/uploads/sql_server_logo.png">
-<img align="center" alt="Python" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png">
-<img align="center" alt="R" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png">
+### Developer de Base de Datos | [Nombre de la Empresa] | [Fecha de Inicio] - [Fecha de Finalización]
 
-### 📳 Mobile Development 
+- Diseño, implementación y mantenimiento de bases de datos.
+- Optimización de consultas y rendimiento de bases de datos.
+- Garantizar la integridad y seguridad de los datos.
 
-<img align="center" alt="NET MAUI" height="40" width="40" src="https://usercontent.one/wp/www.jennerstrand.se/wp-content/uploads/2021/09/net-maui-robot.png">
-<img align="center" alt="Xamarin" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2249/PNG/512/xamarin_outline_icon_139072.png">
-<img align="center" alt="Android" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2080/PNG/512/android_mobile_os_media_social_icon_127328.png">
+## Educación
 
-## 🛠️ Herramientas y Tecnologías
+- Grado en Ingeniería en Sistemas y Computación | [Nombre de la Universidad] | [Año de Graduación]
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+## Habilidades
 
-## 🐍 Estadísticas
+- Lenguajes de Programación: [Lista de lenguajes]
+- Bases de Datos: [Lista de bases de datos]
+- Herramientas de Análisis de Datos: [Lista de herramientas]
+- Desarrollo Móvil: [Lista de tecnologías móviles]
+- Metodologías Ágiles: Scrum, Kanban
+- [Otras habilidades relevantes]
 
-![GitHub Stats](https://github.com/kodosensei/kodosensei/blob/output/github-contribution-grid-snake.svg)
+## Proyectos Destacados
+
+- [Nombre del Proyecto] | [Año]
+  - Breve descripción del proyecto y tu papel en él.
+- [Nombre del Proyecto] | [Año]
+  - Breve descripción del proyecto y tu papel en él.
+
+## Certificaciones
+
+- Certificado en [Nombre de la Certificación] | [Organización] | [Año]
+- Certificado en [Nombre de la Certificación] | [Organización] | [Año]
+
+## Contacto
+
+- LinkedIn: [Tu perfil de LinkedIn]
+- Correo Electrónico: [Tu dirección de correo electrónico]
+
+¡Gracias por visitar mi perfil! Estoy emocionado por nuevas oportunidades y desafíos en el mundo de la tecnología y el desarrollo de software.
