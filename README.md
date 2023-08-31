@@ -38,6 +38,14 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 - 📚 Maestría en Sistemas con enfoque gerencial (Universidad Dominicana O&M) | (2022)
 - 📖 Cursos presenciales y en línea que han enriquecido mi desarrollo profesional y personal.
 
+## 🚀 Proyectos Destacados 🚀
+
+- [Creacion de mi Blog Peronal](https://advisertecnology.com/)] | [2022]
+  - En este blog, comparto investigaciones, conocimientos y consejos sobre las últimas tendencias en tecnología. Si eres un entusiasta de la tecnología, encontrarás contenido valioso aquí. ¡Disfruta leyendo y no dudes en conectarte conmigo en las redes sociales!" 
+- [Canal de Youtube] (https://www.youtube.com/@JuancitoPenaV) | [2021]
+  - Aqui aprenderás sobre programación, bases de datos, ciencia de datos, inteligencia artificial, robótica, ciberseguridad y más. Nuestro objetivo es ayudarte a mejorar tus habilidades y mantenerte actualizado en las últimas tendencias tecnológicas.
+  - - [Mi Propio ChatGPT con React UseLLM] (https://userllm-tutorial-juancitopena.vercel.app/) | [2023]
+  - Este proyecto se trata de una demostración de uso de UserLLM con un modelo de inteligencia artificial. UserLLM es una librería que permite interactuar con modelos de lenguaje y tener conversaciones basadas en texto. En esta demo, se utiliza UserLLM para enviar mensajes ingresados por el usuario y recibir respuestas generadas por el modelo de inteligencia artificial.
 
 ## 💼 Habilidades: 💼
 
