@@ -40,20 +40,13 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 💼 Habilidades: 💼
 
-- 💻 Lenguajes de Programación: [Lista de lenguajes]
-- 🗄️ Bases de Datos: [Lista de bases de datos]
-- 📊 Herramientas de Análisis de Datos: [Lista de herramientas]
-- 📱 Desarrollo Móvil: [Lista de tecnologías móviles]
+- 💻 Lenguajes de Programación: [[HTML], [CSS], [Bootstrap], [Javascript] [PHP], [WordPress],[C#],[SQL Server].]
+- 🗄️ Bases de Datos: [QL Server, MySQL, PostgreSQL, SQLite]
+- 📊 Herramientas de Análisis de Datos: [ [SQL], [Excel], [Power BI] , [Python], [R] ]
+- 📱 Desarrollo Móvil: [XAMARIN, C#, XAML, REACT, JAVA]
 - 🛠️ Sistema de control de versiones Git, Gitlab, Github.
 - 🔄 Metodologías Ágiles: Scrum, Kanban
 - ⚙️ Herramientas de gestión como Slack, Asana y Jira.
-
-## 🚀 Proyectos Destacados 🚀
-
-- [Nombre del Proyecto] | [Año]
-  - Breve descripción del proyecto y tu papel en él.
-- [Nombre del Proyecto] | [Año]
-  - Breve descripción del proyecto y tu papel en él.
 
 ## 📜 Certificaciones 📜
 
