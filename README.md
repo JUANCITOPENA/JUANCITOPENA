@@ -55,6 +55,9 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 ### 🔍 [Buscador de Usuarios de GitHub (2023)](https://juancitopena.github.io/Buscador_de_usuarios_de_GitHub/)
 - Un buscador de usuarios de GitHub que utiliza la API de GitHub para encontrar usuarios y mostrar su información pública. Descubre detalles como el nombre de usuario, ubicación, biografía y enlace directo a su perfil de GitHub. Creado con HTML, CSS y JavaScript para una experiencia rápida y sencilla.
 
+### 🔐 [Generador de Contraseñas (2023)](https://juancitopena.github.io/Generador_de_Password/)
+- Una aplicación web para generar contraseñas encriptadas de forma segura. Utiliza HTML, CSS y JavaScript para ofrecer una interfaz de usuario sencilla con opciones de longitud personalizables.
+
 
 ## 💼 Habilidades: 💼
 
