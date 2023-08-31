@@ -58,6 +58,9 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 ### 🔐 [Generador de Contraseñas (2023)](https://juancitopena.github.io/Generador_de_Password/)
 - Una aplicación web para generar contraseñas encriptadas de forma segura. Utiliza HTML, CSS y JavaScript para ofrecer una interfaz de usuario sencilla con opciones de longitud personalizables.
 
+### 📰 [Uso de API de Noticias (2023)](https://github.com/JUANCITOPENA/USO_DE_API_DE_NOTICIAS/blob/main/README.md)
+- Una aplicación web que muestra noticias en tiempo real de los Estados Unidos. Utiliza JavaScript para obtener y presentar noticias, con opciones de paginación y búsqueda. Una excelente manera de aprender a utilizar APIs y crear interfaces web atractivas.
+
 
 ## 💼 Habilidades: 💼
 
