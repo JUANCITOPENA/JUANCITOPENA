@@ -8,7 +8,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ### Desarrollador de Software:
 
-- Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como [HTML], [CSS], [Bootstrap], [Javascript] [PHP], [WordPress],[C#],[SQL Server].
+- Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como: HTML, CSS, Bootstrap, Javascript, PHP, WordPress, C#, SQL Server.
 - Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
 - Mantenimiento y mejora de aplicaciones existentes.
 
@@ -16,7 +16,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 - Análisis de datos para identificar patrones y tendencias.
 - Creación de informes y visualizaciones para comunicar resultados a partes interesadas.
-- Uso de herramientas como [SQL], [Excel], [Power BI] , [Python], [R] para el análisis de datos.
+- Uso de herramientas como: SQL, Excel, Power BI, Python, R para el análisis de datos.
 
 ### 📲 Mobile Developer:
 
@@ -27,16 +27,16 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 ### ⚙️ Developer de Base de Datos:
 
 - Diseño, implementación y mantenimiento de bases de datos.
-- Herramientas como SQL Server, MySQL, PostgreSQL, SQLite.
+- Herramientas como: SQL Server, MySQL, PostgreSQL, SQLite
 - Optimización de consultas y rendimiento de bases de datos.
 - Garantizar la integridad y seguridad de los datos.
 
 ## 🎓 Educación 🎓
 
-- Grado en Ingeniería en Sistemas y Computación | [Universidad Dominicana O&M] | [2017]
-- Especialización en Desarrollo de Software     | [Universidad Dominicana O&M] | [2021]
-- Maestría en Sistemas con enfoque gerencial    | [Universidad Dominicana O&M] | [2022]
-- Cursos presenciales y en línea que han enriquecido mi desarrollo profesional y personal.
+👨‍🎓 Grado en Ingeniería en Sistemas y Computación (Universidad Dominicana O&M) | (2017)
+🚀 Especialización en Desarrollo de Software (Universidad Dominicana O&M) | (2021)
+📚 Maestría en Sistemas con enfoque gerencial (Universidad Dominicana O&M) | (2022)
+📖 Cursos presenciales y en línea que han enriquecido mi desarrollo profesional y personal.
 
 ## 💼 Habilidades: 💼
 
