@@ -1,4 +1,4 @@
-# 👨‍💻 Perfil de [Tu Nombre] 👨‍💻
+# 👨‍💻 Perfil de Juancito Pema V. 👨‍💻
 
 ## 🚀 Resumen 🚀
 
@@ -6,25 +6,25 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 🛠️ Experiencia 🛠️
 
-### Desarrollador de Software
+### Desarrollador de Software:
 
 - Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como [Tecnología 1], [Tecnología 2], [Tecnología 3].
 - Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
 - Mantenimiento y mejora de aplicaciones existentes.
 
-### 📊 Data Analyst
+### 📊 Data Analyst:
 
 - Análisis de datos para identificar patrones y tendencias.
 - Creación de informes y visualizaciones para comunicar resultados a partes interesadas.
 - Uso de herramientas como [Herramienta 1], [Herramienta 2], [Herramienta 3] para el análisis de datos.
 
-### 📲 Mobile Developer
+### 📲 Mobile Developer:
 
 - Desarrollo de aplicaciones móviles para plataformas iOS y Android.
 - Implementación de funcionalidades clave y mejoras de rendimiento.
 - Pruebas y depuración de aplicaciones en dispositivos reales.
 
-### ⚙️ Developer de Base de Datos
+### ⚙️ Developer de Base de Datos:
 
 - Diseño, implementación y mantenimiento de bases de datos.
 - Optimización de consultas y rendimiento de bases de datos.
@@ -32,16 +32,20 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 🎓 Educación 🎓
 
-- Grado en Ingeniería en Sistemas y Computación | [Nombre de la Universidad] | [Año de Graduación]
+- Grado en Ingeniería en Sistemas y Computación | [Universidad Dominicana O&M] | [2017]
+- Especialización en Desarrollo de Software     | [Universidad Dominicana O&M] | [2021]
+- Maestría en Sistemas con enfoque gerencial    | [Universidad Dominicana O&M] | [2022]
+- Cursos presenciales y en línea que han enriquecido mi desarrollo profesional y personal.
 
-## 💼 Habilidades 💼
+## 💼 Habilidades: 💼
 
 - 💻 Lenguajes de Programación: [Lista de lenguajes]
 - 🗄️ Bases de Datos: [Lista de bases de datos]
 - 📊 Herramientas de Análisis de Datos: [Lista de herramientas]
 - 📱 Desarrollo Móvil: [Lista de tecnologías móviles]
+- 🛠️ Sistema de control de versiones Git, Gitlab, Github.
 - 🔄 Metodologías Ágiles: Scrum, Kanban
-- [Otras habilidades relevantes]
+- ⚙️ Herramientas de gestión como Slack, Asana y Jira.
 
 ## 🚀 Proyectos Destacados 🚀
 
