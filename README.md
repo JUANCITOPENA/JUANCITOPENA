@@ -7,7 +7,7 @@ Soy Ingeniero en Sistemas, Profesor de Tecnologías para el Aprendizaje en @O&M,
 - ⚙️ Excel
 - ⚙️ Crystal Report
 - ⚙️ Power BI
-- <img src="[https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png)" height="20" width="20" alt="HTML5"> HTML
+- <img src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png]" height="20" width="20" alt="HTML5"> HTML
 - <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" height="20" width="20" alt="CSS3"> CSS
 - <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" height="20" width="20" alt="JavaScript"> JavaScript
 - <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" height="20" width="20" alt="React"> React
