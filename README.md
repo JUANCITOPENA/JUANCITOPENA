@@ -8,7 +8,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ### Desarrollador de Software:
 
-- Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como [Tecnología 1], [Tecnología 2], [Tecnología 3].
+- Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como [HTML], [CSS], [Bootstrap], [Javascript] [PHP], [WordPress],[C#],[SQL Server].
 - Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
 - Mantenimiento y mejora de aplicaciones existentes.
 
@@ -16,7 +16,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 - Análisis de datos para identificar patrones y tendencias.
 - Creación de informes y visualizaciones para comunicar resultados a partes interesadas.
-- Uso de herramientas como [Herramienta 1], [Herramienta 2], [Herramienta 3] para el análisis de datos.
+- Uso de herramientas como [SQL], [Excel], [Power BI] , [Python], [R] para el análisis de datos.
 
 ### 📲 Mobile Developer:
 
