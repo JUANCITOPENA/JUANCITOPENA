@@ -53,6 +53,10 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 ### 💬 [Mi Propio ChatGPT con React UseLLM (2023)](https://userllm-tutorial-juancitopena.vercel.app/)
 - Este proyecto es una demostración de uso de UserLLM con un modelo de inteligencia artificial. UserLLM es una librería que permite interactuar con modelos de lenguaje y tener conversaciones basadas en texto. En esta demo, se utiliza UserLLM para enviar mensajes ingresados por el usuario y recibir respuestas generadas por el modelo de inteligencia artificial.
 
+### 🌐 [Portafolio Web (Visitar)](https://juancitopena.github.io/PORTAFOLIO_WEB_JPV/portafolio.html)
+- En mi portafolio web, puedes explorar mi trabajo y proyectos en detalle. Desde desarrollo web hasta inteligencia artificial, encontrarás una variedad de proyectos emocionantes. Estos proyectos incluyen Dashboards y análisis de datos con visualizaciones impactantes, segmentadores, tecnologías de base de datos y Power BI. Son la muestra del poder del análisis de datos, ¡visita mi portafolio para conocer más sobre mi trabajo!
+
+
 
 
 ## 💼 Habilidades: 💼
