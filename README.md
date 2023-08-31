@@ -27,6 +27,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 ### ⚙️ Developer de Base de Datos:
 
 - Diseño, implementación y mantenimiento de bases de datos.
+- Herramientas como SQL Server, MySQL, PostgreSQL, SQLite.
 - Optimización de consultas y rendimiento de bases de datos.
 - Garantizar la integridad y seguridad de los datos.
 
@@ -56,12 +57,12 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 📜 Certificaciones 📜
 
-- Certificado en [Nombre de la Certificación] | [Organización] | [Año]
-- Certificado en [Nombre de la Certificación] | [Organización] | [Año]
+- Certificado en [Scrum Foundation Professional Certification - SFPC] | [CertiProf] | [2020]
+- Certificado en [Fundamentos de Ingeniería de Software] | [Platzi] | [2020]
 
 ## 📧 Contacto 📧
 
-- LinkedIn: [Tu perfil de LinkedIn]
-- Correo Electrónico: [Tu dirección de correo electrónico]
+- LinkedIn: [[Tu perfil de LinkedIn](https://www.linkedin.com/in/juancitope%C3%B1a/)]
+- Correo Electrónico: [Juancito.pena@gmail.com]
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por nuevas oportunidades y desafíos en el mundo de la tecnología y el desarrollo de software.
