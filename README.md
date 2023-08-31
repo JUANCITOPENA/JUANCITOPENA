@@ -33,10 +33,11 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 🎓 Educación 🎓
 
-👨‍🎓 Grado en Ingeniería en Sistemas y Computación (Universidad Dominicana O&M) | (2017)
-🚀 Especialización en Desarrollo de Software (Universidad Dominicana O&M) | (2021)
-📚 Maestría en Sistemas con enfoque gerencial (Universidad Dominicana O&M) | (2022)
-📖 Cursos presenciales y en línea que han enriquecido mi desarrollo profesional y personal.
+- 👨‍🎓 Grado en Ingeniería en Sistemas y Computación (Universidad Dominicana O&M) | (2017)
+- 🚀 Especialización en Desarrollo de Software (Universidad Dominicana O&M) | (2021)
+- 📚 Maestría en Sistemas con enfoque gerencial (Universidad Dominicana O&M) | (2022)
+- 📖 Cursos presenciales y en línea que han enriquecido mi desarrollo profesional y personal.
+
 
 ## 💼 Habilidades: 💼
 
