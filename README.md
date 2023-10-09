@@ -75,9 +75,14 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 - 🔄 Metodologías Ágiles: (Scrum, Kanban)
 - ⚙️ Herramientas de gestión como (Slack, Asana y Jira).
 
-## 📜 Certificaciones 📜
+## 📜 Certificaciones y Cursos📜
 
-- 👨‍🎓 Certificado en Scrum Foundation Professional Certification - SFPC | CertiProf | 2020
+- 👨‍🎓 Certificado en SQL Server Integration Services (SSIS) desde 0 hasta Experto (2022-UDEMY)
+- 👨‍🎓 Certificado en Inteligencia de negocios en SQL SERVER - (SSIS, SSRS, CUBO) (2022-UDEMY)
+- 👨‍🎓 Certificado en Data Analyst (Big Data, Python, R, Power Bi, Excel, varias Tecnicas, etc) (2021) Linkedin.
+- 👨‍🎓 Certificado en Excel y Power BI – Análisis y Visualización de Datos (2021-UDEMY)
+- 👨‍🎓 Certificado en Power BI  (Excel, Dashboards, y DAX en Microsoft Power BI (UDEMY 2020)
+- 👨‍🎓 Certificado en Power BI -Fundamentos de BI - ETL en Power Query, Fórmulas DAX, (2019-UDEMY).
 - 👨‍🎓 Certificado en Fundamentos de Ingeniería de Software | Platzi | 2020
 - 👨‍🎓 Certificado en Conviértete en Data Analyst (Big Data, Python, R, Power Bi, Excel, varias Técnicas | Linkedin Learning | 2021
 - 👨‍🎓 Certificado en Power BI – Análisis de Datos y Business Intelligence, Excel, Dashboards, y DAX | Udemy | 2020
