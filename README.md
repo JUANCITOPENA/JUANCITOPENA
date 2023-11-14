@@ -57,13 +57,16 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ### 🔐 [Generador de Contraseñas (2023)](https://juancitopena.github.io/Generador_de_Password/)
 - Una aplicación web para generar contraseñas encriptadas de forma segura. Utiliza HTML, CSS y JavaScript para ofrecer una interfaz de usuario sencilla con opciones de longitud personalizables.
+- 
+### 🎬 [Aplicación Busqueda de Movie DB y Detalles ](https://movie-searcher-two.vercel.app/)
+- Esta aplicación web permite a los usuarios buscar información detallada sobre películas utilizando la API de OMDb. Puedes buscar películas por título y obtener información como el año de lanzamiento, el director, el elenco, la trama y más. ¡Explora el emocionante mundo del cine de manera sencilla y rápida!
 
 ### 🍿 [Peliculas Populares_USO de API](https://juancitopena.github.io/API-The_Movie_Javascript/api.html)
 - Una aplicación que utiliza la API de The Movie Database (TMDB) para acceder a información detallada sobre películas y programas de televisión. Explora detalles como títulos, sinopsis, reparto, calificaciones y más. Una introducción a cómo los desarrolladores pueden utilizar APIs para crear aplicaciones relacionadas con películas y televisión.
 
 ### 🎬 [Aplicación Movie DB Tendencias](https://aplicacion-api-movie.vercel.app/home)
 - Una aplicación que utiliza la API de The Movie Database (TMDB) para acceder a información detallada sobre películas, filtro de busqueda de titulo mas recientes, etc.
-- 
+
 ### 🕸️ [Filtro de Productos con Jvascript ](https://filtrando-elementos-por-categor-as.vercel.app/#)
 - Una aplicación que utiliza la API de The Movie Database (TMDB) para acceder a información detallada sobre películas y programas de televisión. Explora detalles como títulos, sinopsis, reparto, calificaciones y más. Una introducción a cómo los desarrolladores pueden utilizar APIs para crear aplicaciones relacionadas con películas y televisión.
 
