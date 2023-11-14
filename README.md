@@ -40,7 +40,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 🚀 Proyectos Destacados 🚀
 
-### 📖 [Creación de mi Blog Personal (2022)](https://advisertecnology.com/)
+### 📖 [Creación de mi Blog Personal de Tecnología (2022)](https://advisertecnology.com/)
 - En mi blog personal, comparto investigaciones, conocimientos y consejos sobre las últimas tendencias en tecnología. Si eres un entusiasta de la tecnología, encontrarás contenido valioso aquí. ¡Disfruta leyendo y no dudes en conectarte conmigo en las redes sociales!
 
 ### 🎥 [Canal de YouTube (2021)](https://www.youtube.com/@JuancitoPenaV)
