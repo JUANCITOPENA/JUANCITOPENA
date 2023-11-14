@@ -43,7 +43,7 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 ### 📖 [Creación de mi Blog Personal de Tecnología (2022)](https://advisertecnology.com/)
 - En mi blog personal, comparto investigaciones, conocimientos y consejos sobre las últimas tendencias en tecnología. Si eres un entusiasta de la tecnología, encontrarás contenido valioso aquí. ¡Disfruta leyendo y no dudes en conectarte conmigo en las redes sociales!
 
-### 🎥 [Canal de YouTube (2021)](https://www.youtube.com/@JuancitoPenaV)
+### 🎥 [Canal de YouTube sobre Tecnología (2021)](https://www.youtube.com/@JuancitoPenaV)
 - En nuestro canal de YouTube, aprenderás sobre programación, bases de datos, ciencia de datos, inteligencia artificial, robótica, ciberseguridad y más. Nuestro objetivo es ayudarte a mejorar tus habilidades y mantenerte actualizado en las últimas tendencias tecnológicas.
 
 ### 💬 [Mi Propio ChatGPT con React UseLLM (2023)](https://userllm-tutorial-juancitopena.vercel.app/)
