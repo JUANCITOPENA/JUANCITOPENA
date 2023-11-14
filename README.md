@@ -61,6 +61,9 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 ### 🍿 [Peliculas Populares_USO de API](https://juancitopena.github.io/API-The_Movie_Javascript/api.html)
 - Una aplicación que utiliza la API de The Movie Database (TMDB) para acceder a información detallada sobre películas y programas de televisión. Explora detalles como títulos, sinopsis, reparto, calificaciones y más. Una introducción a cómo los desarrolladores pueden utilizar APIs para crear aplicaciones relacionadas con películas y televisión.
 
+### 🎬 [Aplicación Movie DB Tendencias](https://aplicacion-api-movie.vercel.app/home)
+- Una aplicación que utiliza la API de The Movie Database (TMDB) para acceder a información detallada sobre películas, filtro de busqueda de titulo mas recientes, etc.
+- 
 ### 🕸️ [Filtro de Productos con Jvascript ](https://filtrando-elementos-por-categor-as.vercel.app/#)
 - Una aplicación que utiliza la API de The Movie Database (TMDB) para acceder a información detallada sobre películas y programas de televisión. Explora detalles como títulos, sinopsis, reparto, calificaciones y más. Una introducción a cómo los desarrolladores pueden utilizar APIs para crear aplicaciones relacionadas con películas y televisión.
 
