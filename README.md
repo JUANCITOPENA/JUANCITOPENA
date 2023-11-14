@@ -110,7 +110,14 @@ Soy un ingeniero en Sistemas y Computación apasionado por la tecnología y el d
 
 ## 📧 Contacto 📧
 
-- [LinkedIn de Juanito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
-- Correo Electrónico: [Juancito.pena@gmail.com]
+1. 🎬 **Youtube:** [JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
+2. 👨‍💼 **LinkedIn:** [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
+3. 📰 **Blog:** [Adviser Tecnology](https://advisertecnology.com/)
+4. 📷 **Instagram:** [juancito.pena.v](https://www.instagram.com/juancito.pena.v/)
+5. 📑 **Facebook:** [Juancito P. V.](https://www.facebook.com/juancito.p.v)
+6. 🐦 **Twitter:** [JuancitoPenaV](https://twitter.com/JuancitoPenaV)
+7. 📩 **Correo Electrónico: [Juancito.pena@gmail.com]
 
-¡Gracias por visitar mi perfil! Estoy emocionado por nuevas oportunidades y desafíos en el mundo de la tecnología y el desarrollo de software.
+**¡Gracias por ser parte de nuestro proyecto!** 👏
+
+
