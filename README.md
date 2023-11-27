@@ -1,4 +1,4 @@
-# 👨‍💻 Perfil de Juancito Pena V. 👨‍💻
+# 👨‍💻 Perfil de Juancito Peña V. 👨‍💻
 
 ## 🚀 Resumen 🚀
 
