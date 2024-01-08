@@ -1,6 +1,6 @@
 # 👨‍💻 Perfil de Juancito Peña V. 👨‍💻
 
-![Texto alternativo](URL_de_la_imagen)
+![Texto alternativo](https://media.licdn.com/dms/image/D4E16AQGaKoW0P3QSmA/profile-displaybackgroundimage-shrink_350_1400/0/1675555595145?e=1710374400&v=beta&t=aZYfIxPx9Rg4Vqn8RaO1PJE3A0cKhTsXAVebE9MNelw)
 
 ## 🚀 Resumen 🚀
 
