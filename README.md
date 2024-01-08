@@ -1,5 +1,7 @@
 # 👨‍💻 Perfil de Juancito Peña V. 👨‍💻
 
+"# 👨‍💻 Ingeniero en Sistemas y Computación Apasionado por la Tecnología 👨‍💻"
+
 ![Texto alternativo](https://github.com/JUANCITOPENA/RECURSOS-DE-BASE-DE-DATOS-Y-DATOS-CURSOS-SQL-SERVER-Y-ANALISIS-DE-DATOS/blob/main/Screenshot_64.png)
 
 ## 🚀 Resumen 🚀
