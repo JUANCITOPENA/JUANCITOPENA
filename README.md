@@ -1,6 +1,6 @@
 # 👨‍💻 Perfil de Juancito Peña V. 👨‍💻
 
-![Texto alternativo](https://github.com/JUANCITOPENA/RECURSOS-DE-BASE-DE-DATOS-Y-DATOS-CURSOS-SQL-SERVER-Y-ANALISIS-DE-DATOS/blob/main/Screenshot_63.png)
+![Texto alternativo](https://github.com/JUANCITOPENA/RECURSOS-DE-BASE-DE-DATOS-Y-DATOS-CURSOS-SQL-SERVER-Y-ANALISIS-DE-DATOS/blob/main/Screenshot_64.png)
 
 ## 🚀 Resumen 🚀
 
