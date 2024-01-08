@@ -1,5 +1,7 @@
 # 👨‍💻 Perfil de Juancito Peña V. 👨‍💻
 
+![Texto alternativo](URL_de_la_imagen)
+
 ## 🚀 Resumen 🚀
 
 🧑‍💻Soy ingeniero en Sistemas y Computación apasionado por la tecnología y el desarrollo de software. Mi experiencia abarca varias áreas, incluyendo desarrollo de software, análisis de datos, desarrollo móvil y bases de datos. He trabajado en una variedad de proyectos desafiantes y siempre estoy buscando aprender y mejorar mis habilidades.
