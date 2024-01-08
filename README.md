@@ -1,4 +1,4 @@
-# 👨‍💻 Ingeniero en Sistemas y Computación Apasionado por la Tecnología 👨‍💻
+# 🛠️ Ingeniero en Sistemas y Computación 🛠️
 
 # 👨‍💻 Perfil de Juancito Peña V. 👨‍💻
 
