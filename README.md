@@ -29,7 +29,10 @@
 
 ### 📲 Mobile Developer:
 
+### 📱 Mobile Developer:
+
 - Desarrollo de aplicaciones móviles para plataformas iOS y Android.
+  Soluciones como (Consumo de API, CRUD y Aplicaciones de Ventas).
 - Implementación de funcionalidades clave y mejoras de rendimiento.
 - Pruebas y depuración de aplicaciones en dispositivos reales.
 
