@@ -10,17 +10,22 @@
 
 ## 🛠️ Experiencia 🛠️
 
-### Desarrollador de Software:
+### 📊 Data Analyst:
+
+- **Análisis de datos para identificar patrones y tendencias:**
+  Utilización efectiva de técnicas de análisis de datos para identificar patrones y tendencias clave, permitiendo una comprensión profunda de conjuntos de datos complejos y la toma de decisiones informadas.
+
+- **Creación de informes y visualizaciones para comunicar resultados a partes interesadas:**
+  Desarrollo de informes detallados y visualizaciones dinámicas que presentan de manera clara y efectiva los resultados del análisis de datos, facilitando la comprensión y la toma de decisiones por parte de las partes interesadas.
+
+- **Uso de herramientas como: SQL, Excel, Power BI, Python, R para el análisis de datos:**
+  Dominio en el uso de herramientas como SQL, Excel, Power BI, Python y R para realizar análisis de datos complejos, lo que incluye la extracción, manipulación, análisis y visualización de datos de manera eficiente y efectiva.
+
+### 🖥️ Desarrollador de Software:
 
 - Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como: HTML, CSS, Bootstrap, Javascript, PHP, WordPress, C#, SQL Server.
 - Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
 - Mantenimiento y mejora de aplicaciones existentes.
-
-### 📊 Data Analyst:
-
-- Análisis de datos para identificar patrones y tendencias.
-- Creación de informes y visualizaciones para comunicar resultados a partes interesadas.
-- Uso de herramientas como: SQL, Excel, Power BI, Python, R para el análisis de datos.
 
 ### 📲 Mobile Developer:
 
