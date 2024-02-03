@@ -4,9 +4,16 @@
 
 ![Texto alternativo](https://github.com/JUANCITOPENA/RECURSOS-DE-BASE-DE-DATOS-Y-DATOS-CURSOS-SQL-SERVER-Y-ANALISIS-DE-DATOS/blob/main/Screenshot_64.png)
 
-## 🚀 Resumen 🚀
+## 🚀 Acerca de mí 🚀
 
-🧑‍💻Soy ingeniero en Sistemas y Computación apasionado por la tecnología y el desarrollo de software. Mi experiencia abarca varias áreas, incluyendo desarrollo de software, análisis de datos, desarrollo móvil y bases de datos. He trabajado en una variedad de proyectos desafiantes y siempre estoy buscando aprender y mejorar mis habilidades.
+🧑‍💻 Con más de 15 años de experiencia en sistemas tecnológicos, administrativos y de marketing, me destaco como un profesional multidisciplinario con un enfoque claro en el análisis de datos. He sido testigo del poder transformador que las tecnologías tienen en los negocios, la educación y la productividad, y estoy comprometido con aprovechar este potencial al máximo. 🚀
+
+💼 Mis habilidades analíticas son una herramienta poderosa que utilizo para abordar problemas con determinación y encontrar soluciones efectivas. A lo largo de mi carrera, he enfrentado una variedad de desafíos con demandas urgentes, y mi resiliencia me ha permitido superarlos con éxito. 💡
+
+## Contacto
+
+📧 Estoy convencido del valor que puedo aportar como Data Analyst y estoy emocionado de explorar cómo mis habilidades pueden contribuir al éxito de su equipo. Quedo a su disposición para conversar sobre la vacante y compartir más detalles sobre mi experiencia. Por favor, no dude en contactarme si desea recibir mi CV o concertar una entrevista. 📞
+
 
 ## 🛠️ Experiencia 🛠️
 
