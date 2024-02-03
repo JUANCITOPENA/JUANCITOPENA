@@ -37,6 +37,7 @@
 
 ## 🎓 Educación 🎓
 
+- 📖 Maestría en Ciencia de Datos para Negocios (Big Data & Business Analytics) - CESUMA / CEUPE | (2024-2025)
 - 👨‍🎓 Grado en Ingeniería en Sistemas y Computación (Universidad Dominicana O&M) | (2017)
 - 🚀 Especialización en Desarrollo de Software (Universidad Dominicana O&M) | (2021)
 - 📚 Maestría en Sistemas con enfoque gerencial (Universidad Dominicana O&M) | (2022)
