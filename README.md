@@ -118,6 +118,10 @@
 - 👨‍🎓 Certificado en Técnico en Mantenimiento de Redes y Cableado Estructurado | Infotep | 2008
 - 👨‍🎓 Certificado en Reingeniería Aplicada a los Procesos - Justo a Tiempo | Infotep | 2010
 
+### 🛠️ ¡Soluciones para tus Datos! 📊💡
+
+¿Necesitas soluciones para tus datos? ¡Estoy aquí para ayudarte! Transformo tus datos en oportunidades, ya sea para proyectos personales o profesionales. Si requieres asistencia con bases de datos (SQL Server, MySQL, PostgreSQL) para crear vistas, procedimientos, triggers, o desarrollar un modelo funcional (Estrella o Copo de Nieve), Realizar un ETL, Curar tus datos, Generar reportes con Crystal Report, o un dashboard/informe, no dudes en contactarme. Encuéntrame y sígueme en mis redes sociales para estar al tanto de mis servicios y colaboraciones. 🚀
+
 ## 📧 Contacto 📧
 
 1. 🎬 **Youtube:** [JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
