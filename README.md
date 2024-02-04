@@ -25,12 +25,6 @@
 - **Uso de herramientas como: SQL, Excel, Power BI, Python, R para el análisis de datos:**
   Dominio en el uso de herramientas como SQL, Excel, Power BI, Python y R para realizar análisis de datos complejos, lo que incluye la extracción, manipulación, análisis y visualización de datos de manera eficiente y efectiva.
 
-### 🖥️ Desarrollador de Software:
-
-- Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como: HTML, CSS, Bootstrap, Javascript, PHP, WordPress, C#, SQL Server.
-- Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
-- Mantenimiento y mejora de aplicaciones existentes.
-
 ### ⚙️ Developer de Base de Datos:
 
 - Diseño, implementación y mantenimiento de bases de datos.
@@ -41,6 +35,14 @@
 - Creación de consultas avanzadas y optimizadas para análisis de datos complejos.
 - Desarrollo de vistas y procedimientos almacenados para la generación de informes y dashboards.
 - Colaboración con equipos de análisis de datos y desarrollo para el diseño e implementación de soluciones integrales.
+
+### 🖥️ Desarrollador de Software:
+
+- Desarrollo de aplicaciones web y de escritorio utilizando tecnologías como: HTML, CSS, Bootstrap, JavaScript, PHP, WordPress, C#, SQL Server.
+- Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
+- Mantenimiento y mejora de aplicaciones existentes.
+- Implementación de soluciones para el uso e integración de API, incluyendo consumo y manipulación de datos desde bases de datos.
+- Diseño e implementación de sistemas de ventas y administración de datos, abarcando operaciones CRUD y optimización de procesos.
 
 ### 📱 Mobile Developer:
 
