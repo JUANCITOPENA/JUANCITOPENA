@@ -6,7 +6,7 @@
 
 ## 🚀 Acerca de mí 🚀
 
-🧑‍💻 Con más de 15 años de experiencia en sistemas tecnológicos, administrativos y de marketing, me destaco como un profesional multidisciplinario con un enfoque claro en el análisis de datos. Durante mi trayectoria, He participado y formato parte varios proyectos de existo en las empresas donde he trabajdo, abordando temas que involucran sistemas ERP y CRM, sistemas de Ventas y Distribuciones moviles, analisis de datos. Mi pasión por el análisis de datos se ha fortalecido al presenciar su impacto transformador en los negocios, la educación y la productividad, y estoy comprometido a maximizar este potencial en cada proyecto en el que me involucro.
+🧑‍💻 Con más de 15 años de experiencia en sistemas tecnológicos, administrativos y de marketing, me destaco como un profesional multidisciplinario con un enfoque claro en el análisis de datos. Durante mi trayectoria, He participado y formato parte varios proyectos de existo en las empresas donde he trabajdo, abordando temas que involucran sistemas ERP y CRM, sistemas de Ventas y Distribuciones Con aplicaciones moviles, y la gestion de datos. Mi pasión por este campo se ha fortalecido al presenciar su impacto transformador en los negocios, la educación y la productividad, y estoy comprometido a maximizar este potencial en cada proyecto en el que me involucro.
 
 💼 Mis habilidades analíticas son una herramienta poderosa que utilizo para abordar problemas con determinación y encontrar soluciones efectivas. He liderado equipos en la resolución de desafíos complejos, utilizando enfoques innovadores y análisis rigurosos para superar obstáculos y alcanzar objetivos ambiciosos. Mi historial demuestra una capacidad probada para adaptarme rápidamente a entornos dinámicos y para entregar resultados sobresalientes incluso bajo presión.
 
@@ -31,7 +31,16 @@
 - Colaboración en equipos ágiles para entregar soluciones de software de alta calidad.
 - Mantenimiento y mejora de aplicaciones existentes.
 
-### 📲 Mobile Developer:
+### ⚙️ Developer de Base de Datos:
+
+- Diseño, implementación y mantenimiento de bases de datos.
+- Experiencia con herramientas como: SQL Server, MySQL, PostgreSQL, SQLite.
+- Importación y exportación de datos entre Excel y bases de datos SQL Server y viceversa.
+- Implementación de procesos ETL (Extract, Transform, Load) para la integración de datos.
+- Limpieza y curación de datos para garantizar la calidad y coherencia de la información.
+- Creación de consultas avanzadas y optimizadas para análisis de datos complejos.
+- Desarrollo de vistas y procedimientos almacenados para la generación de informes y dashboards.
+- Colaboración con equipos de análisis de datos y desarrollo para el diseño e implementación de soluciones integrales.
 
 ### 📱 Mobile Developer:
 
@@ -39,13 +48,6 @@
   Soluciones como (Consumo de API, CRUD y Aplicaciones de Ventas).
 - Implementación de funcionalidades clave y mejoras de rendimiento.
 - Pruebas y depuración de aplicaciones en dispositivos reales.
-
-### ⚙️ Developer de Base de Datos:
-
-- Diseño, implementación y mantenimiento de bases de datos.
-- Herramientas como: SQL Server, MySQL, PostgreSQL, SQLite
-- Optimización de consultas y rendimiento de bases de datos.
-- Garantizar la integridad y seguridad de los datos.
 
 ## 🎓 Educación 🎓
 
