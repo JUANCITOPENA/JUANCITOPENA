@@ -2,8 +2,6 @@
 
 # 👨‍💻 Juancito Peña V. 👨‍💻
 
-![Texto alternativo](https://github.com/JUANCITOPENA/RECURSOS-DE-BASE-DE-DATOS-Y-DATOS-CURSOS-SQL-SERVER-Y-ANALISIS-DE-DATOS/blob/main/Screenshot_64.png)
-
 ## 🚀 Acerca de mí 🚀
 
 🧑‍💻 Con más de 15 años de experiencia en sistemas tecnológicos, administrativos y de marketing, me destaco como un profesional multidisciplinario con un enfoque claro en el análisis de datos. Durante mi trayectoria, He participado y formato parte varios proyectos de existo en las empresas donde he trabajdo, abordando temas que involucran sistemas ERP y CRM, sistemas de Ventas y Distribuciones Con aplicaciones moviles, y la gestion de datos. Mi pasión por este campo se ha fortalecido al presenciar su impacto transformador en los negocios, la educación y la productividad, y estoy comprometido a maximizar este potencial en cada proyecto en el que me involucro.
