@@ -102,7 +102,7 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme. 😊
 
-## 🎥 Videos de YouTube
+## 🎥 Mira algunos de mis Videos de YouTube
 
 | Categoría              | Miniatura                                          | Enlace al Video                                    |
 |------------------------|----------------------------------------------------|---------------------------------------------------|
