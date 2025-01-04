@@ -46,28 +46,9 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
 </p>
 
-## GitHub Statistics 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
-</p>
-
 ## GitHub Contributions Graph 📈
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JUANCITOPENA&bg_color=0d1117&color=58a6ff&line=0098d1&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-## Pinned Repositories 🔝
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JUANCITOPENA&repo=repository-name" alt="Pinned Repos"/>
 </p>
 
 ## GitHub Trophies 🏆
@@ -80,24 +61,9 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
   <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/>
 </p>
 
-## GitHub Langs Stats 🌍
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&langs_count=10&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
-## Commits History 📅
-<p align="center">
-  <img src="https://github.com/JUANCITOPENA/github-activity-readme-stats/blob/master/assets/github-activity-stats.svg" alt="Commits History"/>
-</p>
-
 ## GitHub Issues and Pull Requests 📋
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&count_private=true&show_icons=true&hide=prs&theme=dark" alt="GitHub Issues"/>
-</p>
-
-## GitHub Languages Chart 🌐
-<p align="center">
-  <img src="https://github.com/JUANCITOPENA/github-languages-stats/blob/master/generated/languages.svg" alt="GitHub Languages"/>
 </p>
 
 
