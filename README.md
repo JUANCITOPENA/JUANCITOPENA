@@ -1,6 +1,6 @@
 # ¡Hola y bienvenido a mi perfil de GitHub! 🌟
 
-🚀 **Apasionado por la Tecnología | Análisis de Datos | Desarrollo de Software | Transformación Digital**
+## 🚀 Apasionado por la Tecnología | 📊 Análisis de Datos | 💻 Desarrollo de Software | 🌐 Frontend | 🔙 Backend | 📱 Móvil | 🔄 Transformación Digital
 
 Soy Juancito Peña, un profesional con más de 15 años de experiencia en sectores productivos, incluyendo industrias del plástico, tecnología y educación. Me especializo en la gestión de automatización y análisis de datos, enfocado en la optimización de procesos para mejorar la eficiencia operativa y la resolución de problemas con tecnologías disruptivas 💡 y transformación digital 🚀.
 
