@@ -106,9 +106,9 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 
 | Categoría              | Miniatura                                          | Enlace al Video                                    |
 |------------------------|----------------------------------------------------|---------------------------------------------------|
-| **Video 1**             | ![Video 1](https://img.youtube.com/vi/gW80fB4oMic/2.jpg) | [Ver Video](https://www.youtube.com/watch?v=gW80fB4oMic) |
-| **Video 2**             | ![Video 2](https://img.youtube.com/vi/Xg7LF4TpY-c/2.jpg) | [Ver Video](https://www.youtube.com/watch?v=Xg7LF4TpY-c) |
-| **Video 3**             | ![Video 3](https://img.youtube.com/vi/i1Fs0Ufeboc/2.jpg) | [Ver Video](https://www.youtube.com/watch?v=i1Fs0Ufeboc) |
+| **Video 1**             | ![Video 1](https://img.youtube.com/vi/gW80fB4oMic/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=gW80fB4oMic) |
+| **Video 2**             | ![Video 2](https://img.youtube.com/vi/Xg7LF4TpY-c/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=Xg7LF4TpY-c) |
+| **Video 3**             | ![Video 3](https://img.youtube.com/vi/i1Fs0Ufeboc/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=i1Fs0Ufeboc) |
 | **Video 4**             | ![Video 4](https://img.youtube.com/vi/kqwxlIPkx0s/2.jpg) | [Ver Video](https://www.youtube.com/watch?v=kqwxlIPkx0s) |
 | **Video 5**             | ![Video 5](https://img.youtube.com/vi/i_Iclo6_djg/2.jpg) | [Ver Video](https://www.youtube.com/watch?v=i_Iclo6_djg) |
 | **Video 6**             | ![Video 6](https://img.youtube.com/vi/Ezj9aN2xD7w/2.jpg) | [Ver Video](https://www.youtube.com/watch?v=Ezj9aN2xD7w) |
