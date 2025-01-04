@@ -47,7 +47,11 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JUANCITOPENA&bg_color=0d1117&color=58a6ff&line=0098d1&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 
