@@ -102,17 +102,17 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme. 😊
 
-## 🎥 Categorías del Canal de YouTube
+## 🎥 Videos de YouTube
 
-| Categoría         | Miniatura                               | Enlace al Video                                 |
-|-------------------|-----------------------------------------|------------------------------------------------|
-| **Tecnología**    | ![Tecnología](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
-| **Tutoriales**    | ![Tutoriales](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
-| **Análisis de Datos** | ![Análisis de Datos](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
-| **Desarrollo de Software** | ![Desarrollo de Software](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
-| **Inteligencia Artificial** | ![IA](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
+| Categoría              | Miniatura                                          | Enlace al Video                                    |
+|------------------------|----------------------------------------------------|---------------------------------------------------|
+| **Video 1**             | ![Video 1](https://img.youtube.com/vi/gW80fB4oMic/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=gW80fB4oMic) |
+| **Video 2**             | ![Video 2](https://img.youtube.com/vi/Xg7LF4TpY-c/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=Xg7LF4TpY-c) |
+| **Video 3**             | ![Video 3](https://img.youtube.com/vi/i1Fs0Ufeboc/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=i1Fs0Ufeboc) |
 
 ---
 
 🔗 **Canal de YouTube**: [JUANCITOPENA](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA)
+
+
 
