@@ -101,3 +101,18 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme. 😊
+
+## 🎥 Categorías del Canal de YouTube
+
+| Categoría         | Miniatura                               | Enlace al Video                                 |
+|-------------------|-----------------------------------------|------------------------------------------------|
+| **Tecnología**    | ![Tecnología](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
+| **Tutoriales**    | ![Tutoriales](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
+| **Análisis de Datos** | ![Análisis de Datos](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
+| **Desarrollo de Software** | ![Desarrollo de Software](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
+| **Inteligencia Artificial** | ![IA](https://img.youtube.com/vi/VIDEO_ID/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=VIDEO_ID) |
+
+---
+
+🔗 **Canal de YouTube**: [JUANCITOPENA](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA)
+
