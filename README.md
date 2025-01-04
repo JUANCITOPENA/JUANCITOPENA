@@ -47,8 +47,9 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=JUANCITOPENA&bg_color=0d1117&color=58a6ff&line=0098d1&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JUANCITOPENA&bg_color=0d1117&color=58a6ff&line=0098d1&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
+
 
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme. 😊
