@@ -48,12 +48,15 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 
 ## 📊 Generación de Gráficos y Análisis de Datos
 
-- **Tableau**: Plataforma de visualización de datos para crear gráficos interactivos y análisis detallados.
-- **Power BI**: Herramienta de Microsoft para el análisis de datos, informes y dashboards interactivos.
-- **Google Data Studio**: Herramienta gratuita de Google para crear informes visuales con datos de diversas fuentes.
-- **Plotly**: Biblioteca para la creación de gráficos interactivos, especialmente útil para análisis de datos en Python.
+- **SQL**: Lenguaje de consulta estructurado para la manipulación y análisis de grandes volúmenes de datos en bases de datos. Experiencia en la creación de consultas complejas, vistas, procedimientos almacenados y funciones de agregación para obtener insights a partir de los datos.
+- **Excel**: Herramienta de hojas de cálculo avanzada utilizada para la manipulación de datos, análisis estadísticos, generación de gráficos interactivos y dashboards. Conocimiento de funciones avanzadas, tablas dinámicas y Power Query.
+- **Power BI**: Herramienta de Microsoft para el análisis de datos, informes y dashboards interactivos. Experiencia en la creación de informes visuales, KPIs y métricas utilizando DAX (Data Analysis Expressions) y Power Query.
+- **Python**: Lenguaje de programación utilizado para análisis de datos, manipulación de datos con **Pandas**, visualización con **Matplotlib**, **Seaborn** y **Plotly**, y análisis predictivo con **scikit-learn**.
+- **R**: Lenguaje estadístico utilizado para el análisis de datos complejos y visualización. Conocimiento en el uso de **ggplot2** para gráficos estadísticos, **dplyr** para manipulación de datos y **shiny** para crear aplicaciones interactivas.
 
 ---
+
+
 ## 📚 Formación Continua
 - Más de 3,000 horas de capacitación en plataformas como Infotep, Centu, Platzi, Udemy, LinkedIn Learning y YouTube.
 - Actualizado con las últimas tendencias en tecnología, incluyendo IA 🤖 (ChatGPT, Claude, Gemini, Copilot).
