@@ -32,5 +32,23 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 - Dedicación en la preparación de clases, charlas e inducciones, para transformar vidas a través del conocimiento.
 
 ---
+## GitHub Statistics 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=JUANCITOPENA&bg_color=0d1117&color=58a6ff&line=0098d1&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme. 😊
