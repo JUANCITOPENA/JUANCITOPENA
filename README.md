@@ -56,37 +56,38 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 
 ---
 
+## GitHub Statistics 📊
 
-## 📚 Formación Continua
-- Más de 3,000 horas de capacitación en plataformas como Infotep, Centu, Platzi, Udemy, LinkedIn Learning y YouTube.
-- Actualizado con las últimas tendencias en tecnología, incluyendo IA 🤖 (ChatGPT, Claude, Gemini, Copilot).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+</p>
 
-## 🎯 Orientado a Resultados
-- Potencio las fortalezas de la empresa y promuevo un crecimiento sólido 📈.
-- Habilidades en comunicación efectiva 🗣️, trabajo en equipo 🤝, liderazgo 🦸 y pensamiento crítico 💭.
-
-## 🌟 Docencia
-- Comprometido con la educación como clave para el desarrollo personal y social.
-- Dedicación en la preparación de clases, charlas e inducciones, para transformar vidas a través del conocimiento.
-
----
-GitHub Statistics 📊
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
 </p>
 
-GitHub Trophies 🏆
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula" alt="GitHub Trophies"/> </p>
+## GitHub Trophies 🏆
 
-Visitor Count 👀
-<p align="center"> <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula" alt="GitHub Trophies"/>
+</p>
 
-GitHub Issues and Pull Requests 📋
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&count_private=true&show_icons=true&hide=prs&theme=dark" alt="GitHub Issues"/> </p>
+## Visitor Count 👀
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/>
+</p>
+
+## GitHub Issues and Pull Requests 📋
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&count_private=true&show_icons=true&hide=prs&theme=dark" alt="GitHub Issues"/>
+</p>
+
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme. 😊
 
