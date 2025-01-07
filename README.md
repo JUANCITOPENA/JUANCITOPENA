@@ -75,7 +75,9 @@ GitHub Statistics 📊
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
+</p>
 
 GitHub Trophies 🏆
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula" alt="GitHub Trophies"/> </p>
