@@ -67,8 +67,9 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
 </p>
+
 
 ## GitHub Trophies 🏆
 
