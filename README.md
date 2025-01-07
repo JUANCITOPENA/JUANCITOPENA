@@ -70,35 +70,21 @@ Soy Juancito Peña, un profesional con más de 15 años de experiencia en sector
 - Dedicación en la preparación de clases, charlas e inducciones, para transformar vidas a través del conocimiento.
 
 ---
-## GitHub Statistics 📊
+GitHub Statistics 📊
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10" alt="Top Languages"/>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5" alt="GitHub Streak"/>
-</p>
+GitHub Trophies 🏆
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula" alt="GitHub Trophies"/> </p>
 
-## GitHub Trophies 🏆
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula" alt="GitHub Trophies"/>
-</p>
+Visitor Count 👀
+<p align="center"> <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/> </p>
 
-## Visitor Count 👀
-<p align="center">
-  <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/>
-</p>
-
-## GitHub Issues and Pull Requests 📋
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&count_private=true&show_icons=true&hide=prs&theme=dark" alt="GitHub Issues"/>
-</p>
-
+GitHub Issues and Pull Requests 📋
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&count_private=true&show_icons=true&hide=prs&theme=dark" alt="GitHub Issues"/> </p>
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar en algún proyecto, no dudes en contactarme. 😊
 
