@@ -2,7 +2,9 @@
 
 #### 📊 Analista de Datos | 💻 Desarrollador de Software | 🌐 Frontend | 🔙 Backend | 📱 Móvil | 🔄 Transformación Digital
 
-Soy Juancito Peña, un profesional con más de 15 años de experiencia en sectores productivos, incluyendo industrias del plástico, tecnología y educación. Me especializo en la gestión de automatización y análisis de datos, enfocado en la optimización de procesos para mejorar la eficiencia operativa y la resolución de problemas con tecnologías disruptivas 💡 y transformación digital 🚀.
+Soy Juancito Peña, un profesional con más de 15 años de experiencia en sectores clave como la industria del plástico 🏭, bebidas alcohólicas 🍷 y azucaradas 🥤, alimentos 🍴, tecnología 💻 y educación profesional 🎓.
+
+Mi especialidad es la gestión de automatización 🤖 y el análisis de datos 📊, enfocado en optimizar procesos para elevar la eficiencia operativa 🚀, resolver desafíos mediante tecnologías innovadoras 🛠️, reducir costos 💰, garantizar servicios de alta calidad ✅ y potenciar ingresos a través de estrategias disruptivas y transformación digital 🌐.
 
 ## 🎓 Educación
 - Graduado en Ingeniería en Sistemas 💻, especializado en Desarrollo de Software 💾, con una Maestría en Sistemas con mención en Gestión Gerencial 📊 (Universidad Dominicana O&M).
