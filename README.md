@@ -59,13 +59,15 @@ Mi especialidad es la gestión de automatización 🤖 y el análisis de datos �
 
 ---
 
-## 📊 Generación de Gráficos y Análisis de Datos
+## 📊 Generación de Gráficos y Análisis de Datos  
 
-- **SQL**: Lenguaje de consulta estructurado para la manipulación y análisis de grandes volúmenes de datos en bases de datos. Experiencia en la creación de consultas complejas, vistas, procedimientos almacenados y funciones de agregación para obtener insights a partir de los datos.
-- **Excel**: Herramienta de hojas de cálculo avanzada utilizada para la manipulación de datos, análisis estadísticos, generación de gráficos interactivos y dashboards. Conocimiento de funciones avanzadas, tablas dinámicas y Power Query.
-- **Power BI**: Herramienta de Microsoft para el análisis de datos, informes y dashboards interactivos. Experiencia en la creación de informes visuales, KPIs y métricas utilizando DAX (Data Analysis Expressions) y Power Query.
-- **Python**: Lenguaje de programación utilizado para análisis de datos, manipulación de datos con **Pandas**, visualización con **Matplotlib**, **Seaborn** y **Plotly**, y análisis predictivo con **scikit-learn**.
-- **R**: Lenguaje estadístico utilizado para el análisis de datos complejos y visualización. Conocimiento en el uso de **ggplot2** para gráficos estadísticos, **dplyr** para manipulación de datos y **shiny** para crear aplicaciones interactivas.
+- **SQL**: Lenguaje de consulta estructurado para la manipulación y análisis de grandes volúmenes de datos en bases de datos. Experiencia en la creación de consultas complejas, vistas, procedimientos almacenados y funciones de agregación para obtener insights a partir de los datos.  
+- **Excel**: Herramienta de hojas de cálculo avanzada utilizada para la manipulación de datos, análisis estadísticos, generación de gráficos interactivos y dashboards. Conocimiento de funciones avanzadas, tablas dinámicas y Power Query.  
+- **Power BI**: Herramienta de Microsoft para el análisis de datos, informes y dashboards interactivos. Experiencia en la creación de informes visuales, KPIs y métricas utilizando DAX (Data Analysis Expressions) y Power Query.  
+- **Python**: Lenguaje de programación utilizado para análisis de datos, manipulación de datos con **Pandas**, visualización con **Matplotlib**, **Seaborn** y **Plotly**, y análisis predictivo con **scikit-learn**.  
+- **R**: Lenguaje estadístico utilizado para el análisis de datos complejos y visualización. Conocimiento en el uso de **ggplot2** para gráficos estadísticos, **dplyr** para manipulación de datos y **shiny** para crear aplicaciones interactivas.  
+- **Chart.js**: Librería de JavaScript ligera y flexible para la creación de gráficos interactivos y visualmente atractivos en aplicaciones web.  
+- **D3.js**: Librería de JavaScript poderosa para manipulación de datos y creación de visualizaciones dinámicas y personalizadas mediante estándares web como SVG, HTML y CSS.  
 
 ---
 
