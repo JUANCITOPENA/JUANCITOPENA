@@ -30,12 +30,15 @@ Mi especialidad es la gestión de automatización 🤖 y el análisis de datos �
 
 ---
 
-## 🤖 IA y Generación de Contenidos
+# 🤖 IA y Generación de Contenidos  
 
-- **ChatGPT**: Herramienta avanzada de inteligencia artificial para generar contenido, asistencia en programación y generación de ideas creativas.
-- **Gemini**: Plataforma de Google para la creación de contenido con capacidades avanzadas de IA.
-- **GitHub Copilot**: Asistente de programación inteligente que acelera el proceso de desarrollo de software.
-- **Perplexy**: Herramienta basada en IA para la creación de contenido visual y texto.
+### Herramientas Principales  
+- **ChatGPT**: Herramienta avanzada de inteligencia artificial para generar contenido, asistencia en programación y creación de ideas creativas.  
+- **Gemini**: Plataforma de Google para la creación de contenido con capacidades avanzadas de IA.  
+- **GitHub Copilot**: Asistente de programación inteligente que acelera el proceso de desarrollo de software.  
+- **Perplexy**: Herramienta basada en IA para la creación de contenido visual y texto.  
+- **V0.dev/chat**: Plataforma de inteligencia artificial de Vercel para generación de contenido y experimentación con IA.  
+- **Llamacoder.together.ai**: Herramienta basada en IA diseñada para asistencia en programación y generación de código.  
 
 ---
 
