@@ -33,6 +33,7 @@ Mi especialidad es la gestión de automatización 🤖 y el análisis de datos �
 # 🤖 IA y Generación de Contenidos  
 
 ### Herramientas Principales  
+- **Mistral AI**: Modelo de inteligencia artificial de alto rendimiento diseñado para potenciar tareas complejas de procesamiento de datos y generación de contenido.  
 - **ChatGPT**: Herramienta avanzada de inteligencia artificial para generar contenido, asistencia en programación y creación de ideas creativas.  
 - **Gemini**: Plataforma de Google para la creación de contenido con capacidades avanzadas de IA.  
 - **GitHub Copilot**: Asistente de programación inteligente que acelera el proceso de desarrollo de software.  
