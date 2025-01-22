@@ -9,7 +9,7 @@ Mi especialidad es la gestión de automatización 🤖 y el análisis de datos �
 ## 🎓 Educación
 - Graduado en Ingeniería en Sistemas 💻, especializado en Desarrollo de Software 💾, con una Maestría en Sistemas con mención en Gestión Gerencial 📊 (Universidad Dominicana O&M).
 
-# 🔍 Habilidades  
+## 🔍 Habilidades  
 
 - **Transformar datos en insights accionables** y desarrollo de proyectos End-to-End.  
 - **Herramientas**: Excel, SQL, Power BI, Python, HTML, CSS, JavaScript, React, PHP, y C#.  
