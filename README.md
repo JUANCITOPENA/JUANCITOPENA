@@ -163,7 +163,7 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 ## 🚀 Proyectos Destacados
 
 ### 🥇 Dashboard de Ventas e Inventarios en Power BI, SQL Server  
-![Demo Dashboard](blob:https://web.whatsapp.com/737def56-3d03-4d88-90a5-88d630344dff)  
+![Demo Dashboard](https://web.whatsapp.com/737def56-3d03-4d88-90a5-88d630344dff)  
 Análisis de datos con **Power BI**, usando **Power Query**, medidas **DAX**, tablas y procesos **End-to-End** para la optimización comercial.  
 ✨ **Tecnologías Clave:** Power BI, SQL Server, DAX, Power Query  
 
