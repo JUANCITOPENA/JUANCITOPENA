@@ -73,7 +73,7 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Gemini" width="100" height="40"/></a>
   <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://www.3ds.com/assets/invest/2024-06/logo-mistral.png" alt="Mistral AI" width="100" height="45"/></a>
   <a href="https://grok.com/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2025/02/Grok-Logo.png" alt="Gemini" width="80" height="40"/></a>
-  <a href="https://chat.deepseek.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/2560px-DeepSeek_logo.svg.png" alt="Mistral AI" width="45" height="45"/></a>
+  <a href="https://chat.deepseek.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/2560px-DeepSeek_logo.svg.png" alt="Mistral AI" width="110" height="45"/></a>
   <a href="https://chat.qwen.ai/" target="_blank" rel="noreferrer"><img src="https://assets.alicdn.com/g/qwenweb/qwen-webui-fe/0.0.107/static/qwen_icon_move_light_180.png" alt="Mistral AI" width="45" height="45"/></a>
 
 </p>
