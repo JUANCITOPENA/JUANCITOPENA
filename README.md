@@ -83,9 +83,9 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/></a>
   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://www.tectrain.at/uploads/Herstellerkat_Scrum.png" alt="Scrum" width="40" height="40"/></a>
-  <a href="https://kanbanize.com/kanban-resources/what-is-kanban" target="_blank" rel="noreferrer"><img src="https://smartway.es/wp-content/uploads/2024/03/mapa-kanban.jpg" alt="Kanban" width="60" height="40"/></a>
+  <a href="https://kanbanize.com/kanban-resources/what-is-kanban" target="_blank" rel="noreferrer"><img src="https://smartway.es/wp-content/uploads/2024/03/mapa-kanban.jpg" alt="Kanban" width="60" height="60"/></a>
   <a href="https://www.sap.com/products/hana.html" target="_blank" rel="noreferrer"><img src="https://www.pipelinersales.com/wp-content/uploads/2018/09/s-sap-erp.png" alt="SAP" width="100" height="45"/></a>
-   <a href="https://www.sap.com/products/hana.html" target="_blank" rel="noreferrer"><img src="https://www.mobile-seller.com/mbs/wp-content/uploads/2015/09/mseller-logo-dark.png" alt="SAP" width="100" height="45"/></a>
+   <a href="https://itsoluclick.com/" target="_blank" rel="noreferrer"><img src="https://www.mobile-seller.com/mbs/wp-content/uploads/2015/09/mseller-logo-dark.png" alt="SAP" width="100" height="45"/></a>
 
 </p>
 
