@@ -70,7 +70,7 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
   <strong>Inteligencia Artificial y Generación de Contenido:</strong><br>
   <a href="https://openai.com/chatgpt/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1024px-ChatGPT-Logo.svg.png" alt="ChatGPT (OpenAI)" width="40" height="40"/></a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://brandlogos.net/wp-content/uploads/2023/09/microsoft_copilot-logo_brandlogos.net_zaqzr.png" alt="GitHub Copilot" width="40" height="40"/></a>
-  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Gemini" width="40" height="40"/></a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/2560px-Google_Gemini_logo.svg.png" alt="Gemini" width="80" height="40"/></a>
   <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://www.3ds.com/assets/invest/2024-06/logo-mistral.png" alt="Mistral AI" width="45" height="45"/></a>
   <a href="https://grok.com/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2025/02/Grok-Logo.png" alt="Gemini" width="40" height="40"/></a>
   <a href="https://chat.deepseek.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/2560px-DeepSeek_logo.svg.png" alt="Mistral AI" width="45" height="45"/></a>
