@@ -124,7 +124,7 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito a explorar los repositorios para conocer más detalles.
 1.  **[Dashboard de Ventas e Inventatios en Power BI, SQL Server](https://app.powerbi.com/view?r=eyJrIjoiNjVhYTY2ODYtNGJmNS00NWQ0LWFjNzEtMjQyOTQ5YTRiODYyIiwidCI6IjMwOTE4NjllLTFiNWMtNDlhNy1iZWQwLTA1ODJiMjBlYzg0NSIsImMiOjJ9)**: * ANÁLISIS DE DATOS-CON POWER BI!, POWER QUERY, MEDIDAS, DAX, TABLAS, END-TO-END.*
-2.  **[12 Formas de Visualizar KPIs en JavaScript con ApexCharts Profile]([URL_AL_REPOSITORIO_2](https://dashboard-12-formas-de-vusualizar-k.vercel.app/))**: *Este proyecto presenta un Dashboard Interactivo y Dinámico para el Análisis de Indicadores Clave de Rendimiento (KPIs). .*
+2.  **[12 Formas de Visualizar KPIs en JavaScript con ApexCharts Profile]([URL_AL_REPOSITORIO_2](https://dashboard-12-formas-de-vusualizar-k.vercel.app/)**: *Este proyecto presenta un Dashboard Interactivo y Dinámico para el Análisis de Indicadores Clave de Rendimiento (KPIs). .*
 3.  **[Nombre del Proyecto 3](URL_AL_REPOSITORIO_3)**: *Breve descripción y tecnologías usadas.*
 
 ---
