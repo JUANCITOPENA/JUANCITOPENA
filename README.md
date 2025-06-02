@@ -125,19 +125,21 @@ Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito
 ¡Explora algunos de mis videos donde comparto conocimientos y proyectos!
 🔗 **Canal Principal**: [JUANCITOPENA en YouTube](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA)
 
-| Título del Video (¡Actualiza esto!)        | Miniatura                                          | Enlace al Video                                    |
-|---------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| **Ej: Análisis de Ventas con Power BI**     | ![Video 1](https://img.youtube.com/vi/gW80fB4oMic/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=gW80fB4oMic) |
-| **Ej: Creando una App con Streamlit**       | ![Video 2](https://img.youtube.com/vi/Xg7LF4TpY-c/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=Xg7LF4TpY-c) |
-| **Ej: Automatización con Python Scripts**   | ![Video 3](https://img.youtube.com/vi/i1Fs0Ufeboc/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=i1Fs0Ufeboc) |
-| **[Título Video 4]**                      | ![Video 4](https://img.youtube.com/vi/kqwxlIPkx0s/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=kqwxlIPkx0s) |
-| **[Título Video 5]**                      | ![Video 5](https://img.youtube.com/vi/i_Iclo6_djg/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=i_Iclo6_djg) |
-| **[Título Video 6]**                      | ![Video 6](https://img.youtube.com/vi/Ezj9aN2xD7w/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=Ezj9aN2xD7w) |
-| **[Título Video 7]**                      | ![Video 7](https://img.youtube.com/vi/zDaLS3hrZE0/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=zDaLS3hrZE0) |
-| **[Título Video 8]**                      | ![Video 8](https://img.youtube.com/vi/jbecZXNd8H4/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=jbecZXNd8H4) |
-| **[Título Video 9]**                      | ![Video 9](https://img.youtube.com/vi/FScAZ5NIqSM/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=FScAZ5NIqSM) |
-| **[Título Video 10]**                     | ![Video 10](https://img.youtube.com/vi/9vS8B0uZw_A/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=9vS8B0uZw_A) |
 
+## 🎥 Mira algunos de mis Videos de YouTube
+
+| Categoría              | Miniatura                                          | Enlace al Video                                    |
+|------------------------|----------------------------------------------------|---------------------------------------------------|
+| **Video 1**             | ![Video 1](https://img.youtube.com/vi/gW80fB4oMic/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=gW80fB4oMic) |
+| **Video 2**             | ![Video 2](https://img.youtube.com/vi/Xg7LF4TpY-c/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=Xg7LF4TpY-c) |
+| **Video 3**             | ![Video 3](https://img.youtube.com/vi/i1Fs0Ufeboc/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=i1Fs0Ufeboc) |
+| **Video 4**             | ![Video 4](https://img.youtube.com/vi/kqwxlIPkx0s/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=kqwxlIPkx0s) |
+| **Video 5**             | ![Video 5](https://img.youtube.com/vi/i_Iclo6_djg/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=i_Iclo6_djg) |
+| **Video 6**             | ![Video 6](https://img.youtube.com/vi/Ezj9aN2xD7w/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=Ezj9aN2xD7w) |
+| **Video 7**             | ![Video 7](https://img.youtube.com/vi/zDaLS3hrZE0/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=zDaLS3hrZE0) |
+| **Video 8**             | ![Video 8](https://img.youtube.com/vi/jbecZXNd8H4/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=jbecZXNd8H4) |
+| **Video 9**             | ![Video 9](https://img.youtube.com/vi/FScAZ5NIqSM/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=FScAZ5NIqSM) |
+| **Video 10**            | ![Video 10](https://img.youtube.com/vi/9vS8B0uZw_A/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=9vS8B0uZw_A) |
 ✔ No olvides suscribirte, darle like y dejar tus comentarios. ¡Tu apoyo es fundamental para seguir creando contenido de valor! 💚
 
 ---
