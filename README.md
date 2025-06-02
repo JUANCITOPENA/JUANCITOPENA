@@ -166,7 +166,7 @@ Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito
 
 ### 🥇 [Dashboard de Ventas e Inventarios en Power BI, SQL Server](https://app.powerbi.com/view?r=eyJrIjoiNjVhYTY2ODYtNGJmNS00NWQ0LWFjNzEtMjQyOTQ5YTRiODYyIiwidCI6IjMwOTE4NjllLTFiNWMtNDlhNy1iZWQwLTA1ODJiMjBlYzg0NSIsImMiOjJ9)  
 <p>
-  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_1" alt="Demo Dashboard">
+  <img align="right" width="200" src="blob:https://web.whatsapp.com/737def56-3d03-4d88-90a5-88d630344dff" alt="Demo Dashboard">
   Análisis de datos con **Power BI**, usando **Power Query**, medidas **DAX**, tablas y procesos **End-to-End** para la optimización comercial.  
   <br><br>
   ✨ **Tecnologías Clave:** Power BI, SQL Server, DAX, Power Query  
