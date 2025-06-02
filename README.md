@@ -21,13 +21,38 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ---
 
-## 🎓 Educación
+## 🎓 Educación  
+*Universidad Dominicana O&M*  
 
--   **Ingeniería en Sistemas** (Especialización en Desarrollo de Software) 💻💾
--   **Maestría en Sistemas** (Mención en Gestión Gerencial) 📊
-    *Universidad Dominicana O&M*
+- **Ingeniería en Sistemas y Computación** 🧠  
+- **Postgrado en Ingeniería de Sistemas** (Especialización en Desarrollo de Software) 💻💾  
+- **Maestría en Sistemas** (Mención en Gestión Gerencial) 📊  
+---
+
+## 📊 Mis Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" style="max-width:100%;"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10&hide_border=true" alt="Top Languages" style="max-width:100%;"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true" alt="GitHub Streak" style="max-width:100%;"/>
+</p>
+
+## 🏆 Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width:100%;"/>
+</p>
+
+## 👀 Contador de Visitas
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/>
+</p>
 
 ---
+
 ## 🛠️ Mi Stack Tecnológico y Habilidades
 
 <p align="left">
@@ -146,29 +171,7 @@ Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" style="max-width:100%;"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=10&hide_border=true" alt="Top Languages" style="max-width:100%;"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true" alt="GitHub Streak" style="max-width:100%;"/>
-</p>
-
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width:100%;"/>
-</p>
-
-## 👀 Contador de Visitas
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/>
-</p>
-
----
 
 ## 🤝 Conectemos y Colaboremos
 
