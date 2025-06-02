@@ -160,35 +160,58 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
     -   Optimización de flujos operativos y logísticos.
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados  
 
-<!-- ANCLA TUS MEJORES REPOSITORIOS Y LISTALOS AQUÍ -->
-<!-- Ejemplo de cómo listar un proyecto:
-### 🥇 [Nombre del Proyecto 1](URL_AL_REPOSITORIO_1)
+Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito a explorar los repositorios para conocer más detalles.  
+
+### 🥇 [Dashboard de Ventas e Inventarios en Power BI, SQL Server](https://app.powerbi.com/view?r=eyJrIjoiNjVhYTY2ODYtNGJmNS00NWQ0LWFjNzEtMjQyOTQ5YTRiODYyIiwidCI6IjMwOTE4NjllLTFiNWMtNDlhNy1iZWQwLTA1ODJiMjBlYzg0NSIsImMiOjJ9)  
 <p>
-  <img align="right" width="200" src="URL_A_UNA_IMAGEN_O_GIF_DEL_PROYECTO_1" alt="Demo Proyecto 1">
-  Breve descripción del proyecto: qué problema resuelve, cuál fue tu contribución principal.
+  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_1" alt="Demo Dashboard">
+  Análisis de datos con **Power BI**, usando **Power Query**, medidas **DAX**, tablas y procesos **End-to-End** para la optimización comercial.  
   <br><br>
-  ✨ **Tecnologías Clave:** Python, Streamlit, Pandas, API XYZ
-</p>
-<br clear="both"/> 
+  ✨ **Tecnologías Clave:** Power BI, SQL Server, DAX, Power Query  
+</p>  
+<br clear="both"/>  
 
-### 🥈 [Nombre del Proyecto 2](URL_AL_REPOSITORIO_2)
+### 🥈 [12 Formas de Visualizar KPIs en JavaScript con ApexCharts](https://dashboard-12-formas-de-vusualizar-k.vercel.app/)  
 <p>
-  <img align="right" width="200" src="URL_A_UNA_IMAGEN_O_GIF_DEL_PROYECTO_2" alt="Demo Proyecto 2">
-  Descripción...
+  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_2" alt="Demo ApexCharts">
+  Este proyecto presenta un **Dashboard Interactivo y Dinámico** para el análisis de Indicadores Clave de Rendimiento (**KPIs**) con gráficos avanzados en **JavaScript**.  
   <br><br>
-  ✨ **Tecnologías Clave:** React, Node.js, MongoDB, Firebase
-</p>
-<br clear="both"/>
--->
+  ✨ **Tecnologías Clave:** JavaScript, ApexCharts, HTML, CSS  
+</p>  
+<br clear="both"/>  
 
-Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito a explorar los repositorios para conocer más detalles.
-1.  **[Dashboard de Ventas e Inventatios en Power BI, SQL Server](https://app.powerbi.com/view?r=eyJrIjoiNjVhYTY2ODYtNGJmNS00NWQ0LWFjNzEtMjQyOTQ5YTRiODYyIiwidCI6IjMwOTE4NjllLTFiNWMtNDlhNy1iZWQwLTA1ODJiMjBlYzg0NSIsImMiOjJ9)**: * ANÁLISIS DE DATOS-CON POWER BI!, POWER QUERY, MEDIDAS, DAX, TABLAS, END-TO-END.*
-2.  **[12 Formas de Visualizar KPIs en JavaScript con ApexCharts Profile]([URL_AL_REPOSITORIO_2](https://dashboard-12-formas-de-vusualizar-k.vercel.app/)**: *Este proyecto presenta un Dashboard Interactivo y Dinámico para el Análisis de Indicadores Clave de Rendimiento (KPIs). .*
-3.  **[Nombre del Proyecto 3](URL_AL_REPOSITORIO_3)**: *Breve descripción y tecnologías usadas.*
+### 🥉 [Gestión de Inventarios con SQL Server y Python](URL_AL_REPOSITORIO_3)  
+<p>
+  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_3" alt="Demo Inventarios">
+  Plataforma para **optimización de inventarios** con consultas avanzadas en **SQL Server** y análisis de datos en **Python**.  
+  <br><br>
+  ✨ **Tecnologías Clave:** Python, SQL Server, Pandas  
+</p>  
+<br clear="both"/>  
+
+### 🎯 [Aplicación Web para Control de Pedidos en React y Firebase](URL_AL_REPOSITORIO_4)  
+<p>
+  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_4" alt="Demo Control de Pedidos">
+  Sistema para gestión de **pedidos en tiempo real**, con autenticación y almacenamiento en **Firebase**.  
+  <br><br>
+  ✨ **Tecnologías Clave:** React, Firebase, JavaScript  
+</p>  
+<br clear="both"/>  
+
+### 🔥 [Automatización de Reportes con Python y Excel](URL_AL_REPOSITORIO_5)  
+<p>
+  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_5" alt="Demo Reportes Python">
+  Script que **automatiza la generación de reportes** en **Excel**, optimizando análisis y presentación de datos empresariales.  
+  <br><br>
+  ✨ **Tecnologías Clave:** Python, Pandas, OpenPyXL  
+</p>  
+<br clear="both"/>  
 
 ---
+
+
 
 ## 🎥 Mira algunos de mis Videos de YouTube
 
