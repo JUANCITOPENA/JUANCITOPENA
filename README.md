@@ -160,55 +160,32 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
     -   Optimización de flujos operativos y logísticos.
 ---
 
-## 🚀 Proyectos Destacados  
+## 🚀 Proyectos Destacados
 
-Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito a explorar los repositorios para conocer más detalles.  
+### 🥇 Dashboard de Ventas e Inventarios en Power BI, SQL Server  
+![Demo Dashboard](https://tu-url-de-imagen.com/dashboard.png)  
+Análisis de datos con **Power BI**, usando **Power Query**, medidas **DAX**, tablas y procesos **End-to-End** para la optimización comercial.  
+✨ **Tecnologías Clave:** Power BI, SQL Server, DAX, Power Query  
 
-### 🥇 [Dashboard de Ventas e Inventarios en Power BI, SQL Server](https://app.powerbi.com/view?r=eyJrIjoiNjVhYTY2ODYtNGJmNS00NWQ0LWFjNzEtMjQyOTQ5YTRiODYyIiwidCI6IjMwOTE4NjllLTFiNWMtNDlhNy1iZWQwLTA1ODJiMjBlYzg0NSIsImMiOjJ9)  
-<p>
-  <img align="right" width="200" src="blob:https://web.whatsapp.com/737def56-3d03-4d88-90a5-88d630344dff" alt="Demo Dashboard">
-  Análisis de datos con **Power BI**, usando **Power Query**, medidas **DAX**, tablas y procesos **End-to-End** para la optimización comercial.  
-  <br><br>
-  ✨ **Tecnologías Clave:** Power BI, SQL Server, DAX, Power Query  
-</p>  
-<br clear="both"/>  
+### 🥈 12 Formas de Visualizar KPIs en JavaScript con ApexCharts  
+![Demo ApexCharts](https://tu-url-de-imagen.com/apexcharts.png)  
+Este proyecto presenta un **Dashboard Interactivo y Dinámico** para el análisis de Indicadores Clave de Rendimiento (**KPIs**) con gráficos avanzados en **JavaScript**.  
+✨ **Tecnologías Clave:** JavaScript, ApexCharts, HTML, CSS  
 
-### 🥈 [12 Formas de Visualizar KPIs en JavaScript con ApexCharts](https://dashboard-12-formas-de-vusualizar-k.vercel.app/)  
-<p>
-  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_2" alt="Demo ApexCharts">
-  Este proyecto presenta un **Dashboard Interactivo y Dinámico** para el análisis de Indicadores Clave de Rendimiento (**KPIs**) con gráficos avanzados en **JavaScript**.  
-  <br><br>
-  ✨ **Tecnologías Clave:** JavaScript, ApexCharts, HTML, CSS  
-</p>  
-<br clear="both"/>  
+### 🥉 Gestión de Inventarios con SQL Server y Python  
+![Demo Inventarios](https://tu-url-de-imagen.com/inventarios.png)  
+Plataforma para **optimización de inventarios** con consultas avanzadas en **SQL Server** y análisis de datos en **Python**.  
+✨ **Tecnologías Clave:** Python, SQL Server, Pandas  
 
-### 🥉 [Gestión de Inventarios con SQL Server y Python](URL_AL_REPOSITORIO_3)  
-<p>
-  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_3" alt="Demo Inventarios">
-  Plataforma para **optimización de inventarios** con consultas avanzadas en **SQL Server** y análisis de datos en **Python**.  
-  <br><br>
-  ✨ **Tecnologías Clave:** Python, SQL Server, Pandas  
-</p>  
-<br clear="both"/>  
+### 🎯 Aplicación Web para Control de Pedidos en React y Firebase  
+![Demo Pedidos](https://tu-url-de-imagen.com/pedidos.png)  
+Sistema para gestión de **pedidos en tiempo real**, con autenticación y almacenamiento en **Firebase**.  
+✨ **Tecnologías Clave:** React, Firebase, JavaScript  
 
-### 🎯 [Aplicación Web para Control de Pedidos en React y Firebase](URL_AL_REPOSITORIO_4)  
-<p>
-  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_4" alt="Demo Control de Pedidos">
-  Sistema para gestión de **pedidos en tiempo real**, con autenticación y almacenamiento en **Firebase**.  
-  <br><br>
-  ✨ **Tecnologías Clave:** React, Firebase, JavaScript  
-</p>  
-<br clear="both"/>  
-
-### 🔥 [Automatización de Reportes con Python y Excel](URL_AL_REPOSITORIO_5)  
-<p>
-  <img align="right" width="200" src="URL_A_UNA_IMAGEN_DEL_PROYECTO_5" alt="Demo Reportes Python">
-  Script que **automatiza la generación de reportes** en **Excel**, optimizando análisis y presentación de datos empresariales.  
-  <br><br>
-  ✨ **Tecnologías Clave:** Python, Pandas, OpenPyXL  
-</p>  
-<br clear="both"/>  
-
+### 🔥 Automatización de Reportes con Python y Excel  
+![Demo Reportes](https://tu-url-de-imagen.com/reportes.png)  
+Script que **automatiza la generación de reportes** en **Excel**, optimizando análisis y presentación de datos empresariales.  
+✨ **Tecnologías Clave:** Python, Pandas, OpenPyXL  
 ---
 
 
