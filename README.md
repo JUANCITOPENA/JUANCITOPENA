@@ -28,66 +28,71 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
     *Universidad Dominicana O&M*
 
 ---
-
 ## 🛠️ Mi Stack Tecnológico y Habilidades
 
 <p align="left">
   <strong>Lenguajes de Programación:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> <!-- Asumo que puedes usarlo por React -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL" width="50" height="50"/></a>
 </p>
 
 <p align="left">
-  <strong>Frontend y Diseño:</strong><br>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"><img src="https://balsamiq.com/assets/company/brand-assets/balsamiq-logo-screen.svg" alt="balsamiq" width="40" height="40"/></a> <!-- Icono externo -->
+  <strong>Frontend y Diseño (UI/UX):</strong><br>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/751/650/png-clipart-balsamiq-website-wireframe-mockup-computer-icons-logo-prototype-white-user-interface-design-thumbnail.png" alt="Balsamiq" width="45" height="45"/></a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>
 </p>
 
 <p align="left">
-  <strong>Análisis de Datos y BI:</strong><br>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="50" height="50"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Desktop.png" alt="Power BI" width="40" height="40"/></a> <!-- Icono de Power BI -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="50" height="50"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/></a>
+  <strong>Análisis de Datos, BI y Visualización:</strong><br>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="50" height="50"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/100px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="40" height="40"/></a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="50" height="50"/></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/tableau-software-logo-C1F20OA987-seeklogo.com.png" alt="Tableau" width="40" height="40"/></a> <!-- Asumiendo que es una herramienta que usas o conoces -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="50" height="50"/></a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original-wordmark.svg" alt="Plotly" width="50" height="50"/></a>
 </p>
 
 <p align="left">
-  <strong>IA y Generación de Contenido:</strong><br>
-  <a href="https://openai.com/chatgpt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openaigo/openaigo-original.svg" alt="ChatGPT" width="40" height="40"/></a>
+  <strong>Inteligencia Artificial y Generación de Contenido:</strong><br>
+  <a href="https://openai.com/chatgpt/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openaigo/openaigo-original.svg" alt="ChatGPT (OpenAI)" width="40" height="40"/></a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg" alt="GitHub Copilot" width="40" height="40"/></a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/lamda/images/gemini_favicon_512px_clr_18823603605002028.png" alt="Gemini" width="40" height="40"/></a>
-  <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://mistral.ai/images/logo_mistral.svg" alt="Mistral AI" width="40" height="40"/></a>
-  <!-- Añade más iconos si lo deseas para Perplexy, V0.dev, DALL-E, Runway, Lumen5 -->
+  <a href="https://mistral.ai/" target="_blank" rel="noreferrer"><img src="https://mistral.ai/images/logo_mistral.svg" alt="Mistral AI" width="45" height="45"/></a>
+  <!-- Para las otras IA como DALL·E, Runway, Lumen5, Perplexy, V0.dev, Llamacoder, puedes buscar sus logos y añadirlos de forma similar si lo deseas -->
 </p>
 
 <p align="left">
   <strong>Control de Versiones, Metodologías y ERP/CRM:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/></a>
   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/scrum.png" alt="Scrum" width="40" height="40"/></a>
   <a href="https://kanbanize.com/kanban-resources/what-is-kanban" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/kanban.png" alt="Kanban" width="40" height="40"/></a>
-  <a href="https://www.sap.com/products/hana.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" alt="SAP" width="40" height="40"/></a>
-  <!-- MSELLER, MACOLA ES, EASYSALES - Si encuentras iconos, añádelos -->
+  <a href="https://www.sap.com/products/hana.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" alt="SAP" width="45" height="45"/></a>
+  <!-- Para MSELLER, MACOLA ES, EASYSALES, puedes buscar sus logos si existen y los deseas incluir -->
 </p>
 
 **Otras Habilidades Clave:**
--   Desarrollo de proyectos End-to-End.
+-   Transformar datos en **insights accionables** y desarrollo de proyectos **End-to-End**.
 -   Gestión de equipos y proyectos: Coordinación efectiva y liderazgo estratégico.
--   Experto en Procesos de Negocio: Facturación, Inventarios, Distribución, Optimización de flujos operativos y logísticos.
-
+-   Experto en **Procesos de Negocio**:
+    -   Sistemas de Facturación.
+    -   Gestión de Inventarios.
+    -   Gestión y control de Distribución.
+    -   Optimización de flujos operativos y logísticos.
 ---
 
 ## 🚀 Proyectos Destacados
