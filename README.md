@@ -129,12 +129,6 @@ Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito
 
 ---
 
-## 🎥 Mis Contenidos en YouTube
-
-¡Explora algunos de mis videos donde comparto conocimientos y proyectos!
-🔗 **Canal Principal**: [JUANCITOPENA en YouTube](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA)
-
-
 ## 🎥 Mira algunos de mis Videos de YouTube
 
 | Categoría              | Miniatura                                          | Enlace al Video                                    |
@@ -149,7 +143,6 @@ Aquí puedes encontrar una selección de mis trabajos más relevantes. Te invito
 | **Video 8**             | ![Video 8](https://img.youtube.com/vi/jbecZXNd8H4/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=jbecZXNd8H4) |
 | **Video 9**             | ![Video 9](https://img.youtube.com/vi/FScAZ5NIqSM/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=FScAZ5NIqSM) |
 | **Video 10**            | ![Video 10](https://img.youtube.com/vi/9vS8B0uZw_A/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=9vS8B0uZw_A) |
-✔ No olvides suscribirte, darle like y dejar tus comentarios. ¡Tu apoyo es fundamental para seguir creando contenido de valor! 💚
 
 ---
 
