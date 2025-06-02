@@ -114,6 +114,42 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 </p>
 
+### 📌 **Lenguajes de Programación y Frameworks Backend**
+- 🐍 **Python** (Django, Flask, FastAPI)
+- 🏗️ **Node.js** (Express, NestJS)
+- 🛠️ **PHP** (Laravel, Symfony)
+- 🔷 **C#** (.NET Core, ASP.NET)
+- 🦀 **Rust** (Actix, Rocket)
+- 📝 **TypeScript** (NestJS)
+
+### 🗄️ **Bases de Datos**
+- 🟢 **MongoDB** (NoSQL, document-oriented)
+- 🟦 **PostgreSQL** (SQL, JSONB support)
+- 🟥 **MySQL** (Relational database)
+- 🟨 **SQL Server** (Enterprise-level SQL solutions)
+- 📊 **Redis** (Caching & session management)
+- 🔵 **Firebase** (Realtime database)
+
+### 🔗 **APIs y Comunicación**
+- 🔌 **RESTful APIs** (JSON, XML)
+- ⚡ **GraphQL** (Optimized queries)
+- 🚀 **gRPC** (High-performance communication)
+- 🔑 **OAuth / JWT** (Authentication protocols)
+- 🔒 **WebSockets** (Real-time communication)
+
+### 🔧 **Herramientas DevOps y Hosting**
+- 🐳 **Docker** (Containerized apps)
+- 🏗️ **Kubernetes** (Container orchestration)
+- ☁️ **AWS / Azure / GCP** (Cloud computing)
+- 🎭 **NGINX** (Reverse proxy)
+- 🔄 **GitHub Actions / Jenkins** (CI/CD automation)
+
+### 🔥 **Metodologías y Seguridad**
+- 🚀 **Microservicios** (Scalable architecture)
+- 🔒 **Cifrado AES & RSA** (Security best practices)
+- 🛡️ **OWASP** (Web security standards)
+- ⚙️ **TDD / BDD** (Testing methodologies)
+
 **Otras Habilidades Clave:**
 -   Transformar datos en **insights accionables** y desarrollo de proyectos **End-to-End**.
 -   Gestión de equipos y proyectos: Coordinación efectiva y liderazgo estratégico.
