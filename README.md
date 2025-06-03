@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[URL_DEL_BANNER_AQUI]" alt="Juancito Peña - Banner Tecnológico" width="800"/>
-</p>
-
 # ¡Hola, soy Juancito Peña! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 #### 📊 Analista de Datos | 💻 Desarrollador Full-Stack | 🤖 Entusiasta de la IA | 🚀 Impulsor de la Transformación Digital
