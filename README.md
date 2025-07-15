@@ -47,9 +47,7 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
   <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat" style="zoom:150%;" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitas-1234-blue?style=flat-square" style="zoom:150%;" />
-</p>
+![Visitas](https://img.shields.io/badge/Visitas-1234-blue?style=for-the-badge)
 ---
 
 ## 🛠️ Mi Stack Tecnológico y Habilidades
