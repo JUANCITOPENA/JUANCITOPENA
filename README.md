@@ -43,6 +43,8 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ## 👀 Contador de Visitas
 
+![Visitas](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juancito.github.io&color=00cf00)
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/JUANCITOPENA/count.svg" alt="Visitor Count"/>
 </p>
