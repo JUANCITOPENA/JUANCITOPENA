@@ -110,38 +110,29 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 </p>
 
-### 📌 **Lenguajes de Programación y Frameworks Backend**
+### 📌 **Lenguajes de Programación Frontend y Frameworks Backend**
+- ⚡️ JavaScript (Node, Express, React, Next.js, NestJS
 - 🐍 **Python** (Django, Flask, FastAPI)
+- 🔷 **C#** (.NET Core, ASP.NET)
 - 🏗️ **Node.js** (Express, NestJS)
 - 🛠️ **PHP** (Laravel, Symfony)
-- 🔷 **C#** (.NET Core, ASP.NET)
-- 🦀 **Rust** (Actix, Rocket)
 - 📝 **TypeScript** (NestJS)
 
 ### 🗄️ **Bases de Datos**
-- 🟢 **MongoDB** (NoSQL, document-oriented)
-- 🟦 **PostgreSQL** (SQL, JSONB support)
-- 🟥 **MySQL** (Relational database)
 - 🟨 **SQL Server** (Enterprise-level SQL solutions)
-- 📊 **Redis** (Caching & session management)
+- 🟥 **MySQL** (Relational database)
+- 🟦 **PostgreSQL** (SQL, JSONB support)
 - 🔵 **Firebase** (Realtime database)
 
 ### 🔗 **APIs y Comunicación**
 - 🔌 **RESTful APIs** (JSON, XML)
-- ⚡ **GraphQL** (Optimized queries)
-- 🚀 **gRPC** (High-performance communication)
 - 🔑 **OAuth / JWT** (Authentication protocols)
 - 🔒 **WebSockets** (Real-time communication)
 
 ### 🔧 **Herramientas DevOps y Hosting**
-- 🐳 **Docker** (Containerized apps)
-- 🏗️ **Kubernetes** (Container orchestration)
-- ☁️ **AWS / Azure / GCP** (Cloud computing)
-- 🎭 **NGINX** (Reverse proxy)
 - 🔄 **GitHub Actions / Jenkins** (CI/CD automation)
 
 ### 🔥 **Metodologías y Seguridad**
-- 🚀 **Microservicios** (Scalable architecture)
 - 🔒 **Cifrado AES & RSA** (Security best practices)
 - 🛡️ **OWASP** (Web security standards)
 - ⚙️ **TDD / BDD** (Testing methodologies)
@@ -202,8 +193,6 @@ Script que **automatiza la generación de reportes** en **Excel**, optimizando a
 | **Video 10**            | ![Video 10](https://img.youtube.com/vi/9vS8B0uZw_A/0.jpg) | [Ver Video](https://www.youtube.com/watch?v=9vS8B0uZw_A) |
 
 ---
-
-
 
 ## 🤝 Conectemos y Colaboremos
 
