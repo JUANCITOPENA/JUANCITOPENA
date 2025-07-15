@@ -43,6 +43,8 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ## 👀 Contador de Visitas
 
+<img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat" />
+
 ![Visitas](https://img.shields.io/badge/Visitas-1234-blue?style=flat-square)
 ---
 
