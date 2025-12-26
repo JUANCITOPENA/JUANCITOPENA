@@ -34,6 +34,20 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
   <img src="https://img.shields.io/github/repo-size/JUANCITOPENA?style=flat-square&color=blue" alt="Tamaño del repositorio" />
 </p>
 
+## 🏆 Trofeos de GitHub
+
+<p align="center">
+  <!-- Si no se carga, puedes usar un trofeo genérico o quitarlo temporalmente -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true" alt="Streak" width="600" />
+  <!-- O reemplazar por un texto si no carga -->
+  <!-- *Trofeos no disponibles temporalmente* -->
+</p>
+
+## 👀 Contador de Visitas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat" alt="Profile Views" width="300" />
+</p>
 ## 👀 Contador de Visitas
 
 <p align="center">
