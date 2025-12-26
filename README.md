@@ -30,7 +30,8 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 [![Seguidores](https://img.shields.io/github/followers/JUANCITOPENA?style=social&label=Seguidores)](https://github.com/JUANCITOPENA)  
 [![Stars](https://img.shields.io/github/stars/JUANCITOPENA?style=social&label=Stars)](https://github.com/JUANCITOPENA)  
 [![Forks](https://img.shields.io/github/forks/JUANCITOPENA/JUANCITOPENA?style=social&label=Forks)](https://github.com/JUANCITOPENA)  
-[![Tamaño del repositorio](https://img.shields.io/github/repo-size/JUANCITOPENA/JUANCITOPENA?style=flat-square&color=blue)](https://github.com/JUANCITOPENA)
+[![Repositorios](https://img.shields.io/badge/Repositorios-15-blue)](https://github.com/JUANCITOPENA)  
+[![Contribuciones](https://img.shields.io/badge/Contribuciones-1.2k-green)](https://github.com/JUANCITOPENA)
 
 ---
 
@@ -40,45 +41,9 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ---
 
-## 🛠️ Tecnologías que uso
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 ## 👀 Contador de Visitas
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat)](https://github.com/JUANCITOPENA)
-
----
-
-## 📫 Cómo contactarme
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUANCITOPENA)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancitopena)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancitopena@example.com)
-
----
-
-## 🚀 Proyectos Destacados
-
-Aquí van algunos de mis proyectos favoritos:
-
-- [Nombre del Proyecto 1](https://github.com/JUANCITOPENA/proyecto1) – Descripción breve del proyecto.
-- [Nombre del Proyecto 2](https://github.com/JUANCITOPENA/proyecto2) – Descripción breve del proyecto.
-- [Nombre del Proyecto 3](https://github.com/JUANCITOPENA/proyecto3) – Descripción breve del proyecto.
-
----
-
-## 📈 Contribuciones Recientes
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JUANCITOPENA&theme=github-compact)](https://github.com/JUANCITOPENA)
-
----
 
 ---
 
