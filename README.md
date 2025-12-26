@@ -28,17 +28,17 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ## 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=8&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=8&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=JUANCITOPENA&theme=dark&hide_border=true)
 
 ---
 
 ## 🏆 Trofeos de GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
@@ -46,6 +46,7 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat)
 
+---
 
 ## 🛠️ Mi Stack Tecnológico y Habilidades
 
