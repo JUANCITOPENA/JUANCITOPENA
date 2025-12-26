@@ -25,26 +25,40 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 - **Maestría en Sistemas** (Mención en Gestión Gerencial) 📊  
 ---
 
+<h2>📊 Mis Estadísticas en GitHub</h2>
 
-## 📊 Mis Estadísticas en GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark"
+       alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark"
+       alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark)
+<p>
+  <img src="https://streak-stats.demolab.com?user=JUANCITOPENA&theme=dark"
+       alt="GitHub Streak" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=JUANCITOPENA&theme=dark)
+<hr/>
 
----
+<h2>🏆 Trofeos de GitHub</h2>
 
-## 🏆 Trofeos de GitHub
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula"
+       alt="GitHub Trophies" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula)
+<hr/>
 
----
+<h2>👀 Contador de Visitas</h2>
 
-## 👀 Contador de Visitas
-
-![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA"
+       alt="Profile Views" />
+</p>
 
 
 ---
