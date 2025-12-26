@@ -28,22 +28,24 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ## 📊 Mis Estadísticas en GitHub
 
-[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Cargando...-blue)](https://github.com/JUANCITOPENA)  
-[![Top Languages](https://img.shields.io/badge/Lenguajes_Más_Usados-Cargando...-green)](https://github.com/JUANCITOPENA)  
-[![Streak](https://img.shields.io/badge/Días_Consecutivos_de_Código-Cargando...-orange)](https://github.com/JUANCITOPENA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=8&hide_border=true)  
+
+![Streak](https://streak-stats.demolab.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true)
 
 ---
 
 ## 🏆 Trofeos de GitHub
 
-[![GitHub Trophies](https://img.shields.io/badge/Trofeos-GitHub_Profile_Trophy-yellow)](https://github.com/JUANCITOPENA)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
 
 ---
 
 ## 👀 Contador de Visitas
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat)](https://github.com/JUANCITOPENA)
----
+![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat)
+
 
 ## 🛠️ Mi Stack Tecnológico y Habilidades
 
