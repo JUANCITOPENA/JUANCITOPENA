@@ -27,27 +27,58 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ## 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true)
+[![Seguidores](https://img.shields.io/github/followers/JUANCITOPENA?style=social&label=Seguidores)](https://github.com/JUANCITOPENA)  
+[![Stars](https://img.shields.io/github/stars/JUANCITOPENA?style=social&label=Stars)](https://github.com/JUANCITOPENA)  
+[![Forks](https://img.shields.io/github/forks/JUANCITOPENA/JUANCITOPENA?style=social&label=Forks)](https://github.com/JUANCITOPENA)  
+[![Tamaño del repositorio](https://img.shields.io/github/repo-size/JUANCITOPENA/JUANCITOPENA?style=flat-square&color=blue)](https://github.com/JUANCITOPENA)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=8&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true)
+---
 
 ## 🏆 Trofeos de GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🛠️ Tecnologías que uso
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 👀 Contador de Visitas
 
-![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat)](https://github.com/JUANCITOPENA)
 
+---
 
+## 📫 Cómo contactarme
 
-## 👀 Contador de Visitas
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUANCITOPENA)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancitopena)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancitopena@example.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat" alt="Profile Views" width="300" />
-</p>
+---
+
+## 🚀 Proyectos Destacados
+
+Aquí van algunos de mis proyectos favoritos:
+
+- [Nombre del Proyecto 1](https://github.com/JUANCITOPENA/proyecto1) – Descripción breve del proyecto.
+- [Nombre del Proyecto 2](https://github.com/JUANCITOPENA/proyecto2) – Descripción breve del proyecto.
+- [Nombre del Proyecto 3](https://github.com/JUANCITOPENA/proyecto3) – Descripción breve del proyecto.
+
+---
+
+## 📈 Contribuciones Recientes
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JUANCITOPENA&theme=github-compact)](https://github.com/JUANCITOPENA)
+
+---
 
 ---
 
