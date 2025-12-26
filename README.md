@@ -24,22 +24,31 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 - **Postgrado en Ingeniería de Sistemas** (Especialización en Desarrollo de Software) 💻💾  
 - **Maestría en Sistemas** (Mención en Gestión Gerencial) 📊  
 ---
-
 ## 📊 Mis Estadísticas en GitHub
 
-[![Seguidores](https://img.shields.io/github/followers/JUANCITOPENA?style=social&label=Seguidores)](https://github.com/JUANCITOPENA)  
-[![Stars](https://img.shields.io/github/stars/JUANCITOPENA?style=social&label=Stars)](https://github.com/JUANCITOPENA)  
-[![Forks](https://img.shields.io/github/forks/JUANCITOPENA/JUANCITOPENA?style=social&label=Forks)](https://github.com/JUANCITOPENA)  
-[![Repositorios](https://img.shields.io/badge/Repositorios-15-blue)](https://github.com/JUANCITOPENA)  
-[![Contribuciones](https://img.shields.io/badge/Contribuciones-1.2k-green)](https://github.com/JUANCITOPENA)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="600" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Top Languages" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true" alt="GitHub Streak" width="600" />
+</p>
 
 ## 🏆 Trofeos de GitHub
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="800" />
+</p>
 
----
+## 👀 Contador de Visitas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat" alt="Profile Views" width="300" />
+</p>
 
 ## 👀 Contador de Visitas
 
