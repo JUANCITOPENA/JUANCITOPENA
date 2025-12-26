@@ -25,29 +25,24 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 - **Maestría en Sistemas** (Mención en Gestión Gerencial) 📊  
 ---
 
-
 ## 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/JUANCITOPENA?style=social&label=Seguidores" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/JUANCITOPENA?style=social&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/JUANCITOPENA?style=flat-square&color=blue" alt="Tamaño del repositorio" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=8&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true)
 
 ## 🏆 Trofeos de GitHub
 
-<p align="center">
-  <!-- Si no se carga, puedes usar un trofeo genérico o quitarlo temporalmente -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true" alt="Streak" width="600" />
-  <!-- O reemplazar por un texto si no carga -->
-  <!-- *Trofeos no disponibles temporalmente* -->
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
 
 ## 👀 Contador de Visitas
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat" alt="Profile Views" width="300" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat)
+
+
+
 ## 👀 Contador de Visitas
 
 <p align="center">
