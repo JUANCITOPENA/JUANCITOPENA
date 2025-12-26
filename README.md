@@ -29,22 +29,9 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 ## 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Top Languages" width="450" />
-</p>
-
-<!-- Streak stats: reemplazado por una alternativa más estable -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JUANCITOPENA&theme=dark&border_radius=5&hide_border=true" alt="GitHub Streak" width="600" />
-</p>
-
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="800" />
+  <img src="https://img.shields.io/github/followers/JUANCITOPENA?style=social&label=Seguidores" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/JUANCITOPENA?style=social&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/JUANCITOPENA?style=flat-square&color=blue" alt="Tamaño del repositorio" />
 </p>
 
 ## 👀 Contador de Visitas
@@ -52,7 +39,6 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Profile%20views&color=ce9927&style=flat" alt="Profile Views" width="300" />
 </p>
-
 
 ---
 
