@@ -1,118 +1,344 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Juancito%20Peña&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Full%20Stack%20Architect&descAlignY=55&descAlign=50" alt="Header Juancito Peña" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,17&height=280&section=header&text=Juancito%20Peña&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Full%20Stack%20Architect%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50&descSize=20" />
 </div>
 
-# ¡Hola, soy Juancito Peña! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-#### 📊 Analista de Datos | 💻 Desarrollador Full-Stack | 🤖 Entusiasta de la IA | 🚀 Impulsor de la Transformación Digital
-
-Con más de 15 años de trayectoria, he navegado por industrias diversas como el plástico 🏭, bebidas alcohólicas 🍷 y azucaradas 🥤, alimentos 🍴, tecnología 💻 y educación profesional 🎓. Mi pasión radica en la **gestión de automatización** 🤖 y el **análisis de datos** 📊, transformando datos crudos en insights accionables y optimizando procesos para impulsar la eficiencia operativa 🚀.
-
-Busco constantemente resolver desafíos complejos con **tecnologías innovadoras** 🛠️, con el objetivo de reducir costos 💰, asegurar servicios de alta calidad ✅ y potenciar ingresos mediante **estrategias disruptivas y transformación digital** 🌐.
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&random=false&width=600&lines=¡Hola!+Soy+Juancito+Peña+👋;Data+Scientist+%7C+Full+Stack+Dev;15%2B+Años+de+Experiencia;Transformando+Datos+en+Decisiones" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juancitope%C3%B1a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/@JuancitoPenaV" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://advisertecnology.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Mi%20Blog-00C4FF?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog">
-  </a>
-  <a href="https://twitter.com/JuancitoPenaV" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <a href="https://www.linkedin.com/in/juancitope%C3%B1a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@JuancitoPenaV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://advisertecnology.com/"><img src="https://img.shields.io/badge/Blog-00C4FF?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a href="https://twitter.com/JuancitoPenaV"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/juancito.pena.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=Visitas%20al%20Perfil&color=0077b5&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/JUANCITOPENA?label=Seguidores&style=for-the-badge&color=0077b5" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/JUANCITOPENA?label=Estrellas&style=for-the-badge&color=0077b5" alt="GitHub stars" />
 </p>
 
 ---
 
-## 🎓 Educación
+## 🚀 Sobre Mí
 
-**Universidad Dominicana O&M**
-- 🧠 **Ingeniería en Sistemas y Computación**
-- 💻 **Postgrado en Ingeniería de Sistemas** (Especialización en Desarrollo de Software)
-- 📊 **Maestría en Sistemas** (Mención en Gestión Gerencial)
+```python
+class DataScientist:
+    def __init__(self):
+        self.nombre = "Juancito Peña"
+        self.rol = "Data Scientist | Full Stack Architect"
+        self.experiencia = "15+ años"
+        self.ubicacion = "Santo Domingo, República Dominicana 🇩🇴"
+        self.educacion = {
+            "universidad": "Universidad Dominicana O&M",
+            "titulos": [
+                "🎓 Ingeniería en Sistemas y Computación",
+                "📚 Postgrado en Desarrollo de Software",
+                "🎯 Maestría en Sistemas - Gestión Gerencial"
+            ]
+        }
+        
+    def habilidades_clave(self):
+        return {
+            "Analisis_Datos": ["Python", "R", "SQL", "Power BI", "Tableau"],
+            "Backend": ["Django", "Flask", "FastAPI", "Node.js", ".NET Core"],
+            "Frontend": ["React", "Next.js", "TypeScript", "JavaScript"],
+            "IA_ML": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
+            "Cloud_DevOps": ["AWS", "Docker", "Git", "CI/CD"],
+            "Metodologias": ["Scrum", "Kanban", "TDD", "Agile"]
+        }
+    
+    def industrias_experiencia(self):
+        return ["Manufactura 🏭", "Bebidas 🍷🥤", "Alimentos 🍴", 
+                "Tecnología 💻", "Educación 🎓"]
+    
+    def mision(self):
+        return """Transformar datos en insights accionables, 
+                  automatizar procesos y liderar la transformación digital 
+                  para maximizar eficiencia, reducir costos y aumentar ingresos."""
+
+# Inicializar perfil
+juancito = DataScientist()
+print(juancito.mision())
+```
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=Estadísticas%20de%20GitHub" alt="Juancito Peña GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&hide_border=true&background=0D1117&stroke=0077B5&ring=0077B5&fire=FF6B00&currStreakLabel=0077B5" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&hide_border=true&title_color=0077B5&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=JUANCITOPENA&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9" alt="Contributor Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JUANCITOPENA&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JUANCITOPENA&theme=react-dark&hide_border=true&bg_color=0D1117&color=0077B5&line=0077B5&point=FF6B00&area=true&area_color=0077B5" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🏆 Trofeos de GitHub
+## 🏆 Logros y Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUANCITOPENA&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
 
 ## 💻 Stack Tecnológico
 
+<details open>
+<summary><b>🔹 Lenguajes de Programación</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,cs,r,java" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Frontend & UI/UX</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma,materialui" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Backend & Frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,dotnet,nestjs,laravel" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Bases de Datos</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite,redis" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 Data Science & IA</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 BI & Visualización</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 DevOps & Cloud</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,vercel,netlify" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔹 IA Generativa & Herramientas</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-6C47FF?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSeek-1a1a1a?style=for-the-badge&logo=ai&logoColor=white"/>
+</p>
+</details>
+
+---
+
+## 🎯 Proyectos Destacados
+
 <div align="center">
 
-### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### 📊 Dashboard Interactivo de Ventas e Inventarios
+[![Power BI Dashboard](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.youtube.com/watch?v=i1Fs0Ufeboc)
 
-### Frameworks y Librerías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Análisis End-to-End con Power BI, SQL Server y DAX**
+- 📈 KPIs dinámicos y medidas DAX avanzadas
+- 🔄 ETL con Power Query
+- 📊 Visualizaciones interactivas para optimización comercial
 
-### Herramientas y Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+**Tech Stack:** `Power BI` `SQL Server` `DAX` `Power Query`
+
+---
+
+### 📉 12 Visualizaciones Avanzadas con ApexCharts
+[![ApexCharts](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/JUANCITOPENA)
+
+**Dashboard dinámico con gráficos interactivos en JS puro**
+- 📊 12 tipos de visualizaciones diferentes
+- ⚡ Performance optimizado
+- 🎨 Diseño responsivo y moderno
+
+**Tech Stack:** `JavaScript` `ApexCharts.js` `HTML5` `CSS3`
+
+---
+
+### 🏪 Sistema de Gestión de Inventarios
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JUANCITOPENA)
+
+**Plataforma completa para optimización de inventarios**
+- 🔍 Consultas SQL avanzadas
+- 📊 Análisis predictivo con Python
+- 📈 Reportes automáticos en Excel
+
+**Tech Stack:** `Python` `SQL Server` `Pandas` `Matplotlib`
+
+---
+
+### 🛒 App Web de Control de Pedidos
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/JUANCITOPENA)
+
+**Sistema de pedidos en tiempo real con Firebase**
+- 🔐 Autenticación segura
+- ⚡ Sincronización en tiempo real
+- 📱 Responsive design
+
+**Tech Stack:** `React` `Firebase` `JavaScript` `Material-UI`
+
+---
+
+### 🤖 Automatización de Reportes con Python
+[![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JUANCITOPENA)
+
+**Scripts para generación automática de reportes**
+- 📊 Integración con Excel
+- 📧 Envío automático de reportes
+- ⏰ Programación de tareas
+
+**Tech Stack:** `Python` `Pandas` `OpenPyXL` `Schedule`
 
 </div>
 
 ---
 
-## 📈 Actividad Reciente
+## 🎥 Videos Destacados de YouTube
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=gW80fB4oMic">
+        <img src="https://img.youtube.com/vi/gW80fB4oMic/maxresdefault.jpg" width="100%" alt="Video 1"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=Xg7LF4TpY-c">
+        <img src="https://img.youtube.com/vi/Xg7LF4TpY-c/maxresdefault.jpg" width="100%" alt="Video 2"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=i1Fs0Ufeboc">
+        <img src="https://img.youtube.com/vi/i1Fs0Ufeboc/maxresdefault.jpg" width="100%" alt="Video 3"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=kqwxlIPkx0s">
+        <img src="https://img.youtube.com/vi/kqwxlIPkx0s/maxresdefault.jpg" width="100%" alt="Video 4"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=i_Iclo6_djg">
+        <img src="https://img.youtube.com/vi/i_Iclo6_djg/maxresdefault.jpg" width="100%" alt="Video 5"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=Ezj9aN2xD7w">
+        <img src="https://img.youtube.com/vi/Ezj9aN2xD7w/maxresdefault.jpg" width="100%" alt="Video 6"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.youtube.com/@JuancitoPenaV?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
+  </a>
+</p>
 
 ---
 
-## 👀 Contador de Visitas
+## 📈 Métricas de Productividad
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&color=0077B5&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JUANCITOPENA&theme=dark&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9" alt="Wakatime Stats" />
+</div>
+
+---
+
+## 🤝 Conecta Conmigo
+
+<div align="center">
+  
+### 💼 Perfil Profesional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancitope%C3%B1a/)
+[![Blog](https://img.shields.io/badge/Blog-00C4FF?style=for-the-badge&logo=wordpress&logoColor=white)](https://advisertecnology.com/)
+
+### 🎬 Contenido y Redes
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JuancitoPenaV)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuancitoPenaV)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juancito.pena.v/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juancito.p.v)
+
+### 📧 Contacto Directo
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancito@advisertecnology.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" alt="Footer" />
+  
+### 💡 Frase Inspiradora
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Los%20datos%20son%20el%20nuevo%20petr%C3%B3leo,%20pero%20la%20anal%C3%ADtica%20es%20el%20motor%20de%20combusti%C3%B3n&author=Juancito%20Pe%C3%B1a" alt="Quote" />
+
 </div>
 
 ---
 
 <div align="center">
-  <i>⚡ "Los datos son el nuevo petróleo, pero la analítica es el motor de combustión" ⚡</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,17&height=120&section=footer" />
+</div>
+
+<div align="center">
+  
+**⭐️ Si te gusta mi trabajo, considera darle una estrella a mis repositorios ⭐️**
+
+[![GitHub followers](https://img.shields.io/github/followers/JUANCITOPENA?label=Seguir&style=social)](https://github.com/JUANCITOPENA)
+[![GitHub stars](https://img.shields.io/github/stars/JUANCITOPENA?label=Estrellas&style=social)](https://github.com/JUANCITOPENA)
+
 </div>
