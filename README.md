@@ -221,80 +221,70 @@ Transformar datos en **insights accionables**, automatizar procesos complejos y 
 </div>
 
 ---
-
-## 🎥 Contenido Destacado de YouTube
+## 🎥 Videos Más Populares
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=gW80fB4oMic">
-        <img src="https://img.youtube.com/vi/gW80fB4oMic/maxresdefault.jpg" width="100%" alt="Video Tutorial"/>
+        <img src="https://img.youtube.com/vi/gW80fB4oMic/mqdefault.jpg" width="100%" alt="Video 1"/>
+        <br/><b>Tutorial 1</b>
       </a>
-      <br/>
-      <b>📊 Tutorial Completo</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=Xg7LF4TpY-c">
-        <img src="https://img.youtube.com/vi/Xg7LF4TpY-c/maxresdefault.jpg" width="100%" alt="SQL Server"/>
+        <img src="https://img.youtube.com/vi/Xg7LF4TpY-c/mqdefault.jpg" width="100%" alt="Video 2"/>
+        <br/><b>Tutorial 2</b>
       </a>
-      <br/>
-      <b>🗄️ SQL Server Avanzado</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=i1Fs0Ufeboc">
-        <img src="https://img.youtube.com/vi/i1Fs0Ufeboc/maxresdefault.jpg" width="100%" alt="Data Analysis"/>
+        <img src="https://img.youtube.com/vi/i1Fs0Ufeboc/mqdefault.jpg" width="100%" alt="Video 3"/>
+        <br/><b>Tutorial 3</b>
       </a>
-      <br/>
-      <b>📈 Análisis de Datos</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=kqwxlIPkx0s">
-        <img src="https://img.youtube.com/vi/kqwxlIPkx0s/maxresdefault.jpg" width="100%" alt="Python Automation"/>
+        <img src="https://img.youtube.com/vi/kqwxlIPkx0s/mqdefault.jpg" width="100%" alt="Video 4"/>
+        <br/><b>Tutorial 4</b>
       </a>
-      <br/>
-      <b>🐍 Automatización con Python</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=i_Iclo6_djg">
-        <img src="https://img.youtube.com/vi/i_Iclo6_djg/maxresdefault.jpg" width="100%" alt="JavaScript Charts"/>
+        <img src="https://img.youtube.com/vi/i_Iclo6_djg/mqdefault.jpg" width="100%" alt="Video 5"/>
+        <br/><b>Tutorial 5</b>
       </a>
-      <br/>
-      <b>📊 Gráficos con JavaScript</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=Ezj9aN2xD7w">
-        <img src="https://img.youtube.com/vi/Ezj9aN2xD7w/maxresdefault.jpg" width="100%" alt="Full Stack"/>
+        <img src="https://img.youtube.com/vi/Ezj9aN2xD7w/mqdefault.jpg" width="100%" alt="Video 6"/>
+        <br/><b>Tutorial 6</b>
       </a>
-      <br/>
-      <b>💻 Desarrollo Full Stack</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=zDaLS3hrZE0">
+        <img src="https://img.youtube.com/vi/zDaLS3hrZE0/mqdefault.jpg" width="100%" alt="Video 7"/>
+        <br/><b>Tutorial 7</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=jbecZXNd8H4">
+        <img src="https://img.youtube.com/vi/jbecZXNd8H4/mqdefault.jpg" width="100%" alt="Video 8"/>
+        <br/><b>Tutorial 8</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=FScAZ5NIqSM">
+        <img src="https://img.youtube.com/vi/FScAZ5NIqSM/mqdefault.jpg" width="100%" alt="Video 9"/>
+        <br/><b>Tutorial 9</b>
+      </a>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://www.youtube.com/@JuancitoPenaV?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/🔔_Suscríbete_al_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscríbete"/>
-  </a>
-</p>
-
-<div align="center">
-  
-### 📺 Más de 100+ Tutoriales de Data Science, Python, SQL y Desarrollo Web
-
-[🎬 Ver Todos los Videos](https://www.youtube.com/@JuancitoPenaV/videos)
-
-</div>
-
----
-
-## 📈 Actividad de Desarrollo
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JUANCITOPENA&theme=dark&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9&layout=compact&custom_title=⏱️%20Tiempo%20de%20Codificación%20Semanal" alt="Wakatime Stats" />
-</div>
-
 ---
 
 ## 🤝 Conecta Conmigo
