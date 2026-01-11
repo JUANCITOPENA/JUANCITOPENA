@@ -50,15 +50,6 @@ Transformar datos en **insights accionables**, automatizar procesos complejos y 
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&custom_title=📊%20Estadísticas%20de%20GitHub" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=JUANCITOPENA&theme=dark&hide_border=true&background=0D1117&stroke=0077B5&ring=0077B5&fire=FF6B00&currStreakLabel=0077B5&sideLabels=0077B5&dates=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&hide_border=true&title_color=0077B5&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css&card_width=400&custom_title=💻%20Lenguajes%20Más%20Usados" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JUANCITOPENA&repo=Base-de-Datos-Escuela&hide_border=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5&text_color=c9d1d9&show_owner=true" alt="Pinned Repo" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JUANCITOPENA&theme=react-dark&hide_border=true&bg_color=0D1117&color=0077B5&line=0077B5&point=FF6B00&area=true&area_color=0077B5&title_color=0077B5&custom_title=📈%20Gráfico%20de%20Contribuciones" alt="Contribution Graph" />
@@ -68,22 +59,6 @@ Transformar datos en **insights accionables**, automatizar procesos complejos y 
 
 ## 🏆 Logros y Reconocimientos
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUANCITOPENA&theme=github_dark" alt="Profile Details" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JUANCITOPENA&theme=github_dark&utcOffset=-4" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JUANCITOPENA&theme=github_dark" alt="Repos Per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JUANCITOPENA&theme=github_dark" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JUANCITOPENA&theme=github_dark" alt="Stats" />
-</div>
 
 ---
 
