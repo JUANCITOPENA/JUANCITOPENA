@@ -21,25 +21,94 @@
 </p>
 
 ---
-## 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&hide_border=true&langs_count=8)
+# 📊 Métricas de GitHub — Perfil JUANCITOPENA
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JUANCITOPENA&theme=dark&hide_border=true)
+> **Nota importante**: este README contiene **TODAS las métricas posibles**.
+> Algunas pueden mostrarse intermitentes por limitaciones de GitHub o de los servicios externos.
+> Úsalo **solo en el repo de perfil**: `JUANCITOPENA/JUANCITOPENA`.
+
+---
+
+## 👀 Visitas al Perfil
+
+![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA\&style=flat-square)
+
+---
+
+## ⭐ Métricas Básicas (Estables)
+
+![Followers](https://img.shields.io/github/followers/JUANCITOPENA?style=flat-square)
+![Stars](https://img.shields.io/github/stars/JUANCITOPENA?style=flat-square)
+![Repos](https://img.shields.io/badge/Repositorios-Públicos-blue?style=flat-square)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA\&show_icons=true\&theme=dark\&hide_border=true)
+
+---
+
+## 🔥 Racha de Contribuciones (Streak)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JUANCITOPENA\&theme=dark\&hide_border=true)
+
+---
+
+## 🧠 Lenguajes Más Usados
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA\&layout=compact\&theme=dark\&hide_border=true\&langs_count=8)
+
+---
+
+## 🗺️ Gráfico de Actividad
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JUANCITOPENA\&theme=github-dark\&hide_border=true)
 
 ---
 
 ## 🏆 Trofeos de GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA\&theme=dracula\&no-frame=true\&margin-w=10)
 
 ---
 
-## 👀 Contador de Visitas
+## ⏱️ WakaTime (Solo si tienes cuenta activa)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&style=flat-square)
+> ⚠️ Si no usas WakaTime, **esta sección mostrará imagen rota**.
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JUANCITOPENA\&theme=dark\&hide_border=true)
+
+---
+
+## 🧪 Diagnóstico Rápido
+
+Si alguna métrica **no se muestra**:
+
+1. Asegúrate de que el archivo esté en:
+
+   ```
+   JUANCITOPENA/JUANCITOPENA/README.md
+   ```
+2. Abre la URL de la imagen directamente en el navegador.
+3. Si no carga, el servicio está caído (no es tu código).
+
+---
+
+## ✅ Recomendación Profesional
+
+Para uso real:
+
+* ✔️ Dejar **solo 3–4 métricas**
+* ❌ Evitar README muy pesado
+* ✔️ Priorizar estabilidad sobre estética
+
+---
+
+**Archivo generado para pruebas y referencia técnica.**
+
 
 
 
