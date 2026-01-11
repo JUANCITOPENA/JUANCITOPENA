@@ -222,64 +222,70 @@ Transformar datos en **insights accionables**, automatizar procesos complejos y 
 
 ---
 
-## 🎥 Contenido de YouTube
+## 🎥 Contenido Destacado de YouTube
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=gW80fB4oMic">
-        <img src="https://img.youtube.com/vi/gW80fB4oMic/maxresdefault.jpg" width="100%" alt="Video 1"/>
-        <br/>
-        <b>Power BI Dashboard</b>
+        <img src="https://img.youtube.com/vi/gW80fB4oMic/maxresdefault.jpg" width="100%" alt="Video Tutorial"/>
       </a>
+      <br/>
+      <b>📊 Tutorial Completo</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=Xg7LF4TpY-c">
-        <img src="https://img.youtube.com/vi/Xg7LF4TpY-c/maxresdefault.jpg" width="100%" alt="Video 2"/>
-        <br/>
-        <b>SQL Server Tutorial</b>
+        <img src="https://img.youtube.com/vi/Xg7LF4TpY-c/maxresdefault.jpg" width="100%" alt="SQL Server"/>
       </a>
+      <br/>
+      <b>🗄️ SQL Server Avanzado</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=i1Fs0Ufeboc">
-        <img src="https://img.youtube.com/vi/i1Fs0Ufeboc/maxresdefault.jpg" width="100%" alt="Video 3"/>
-        <br/>
-        <b>Data Analysis</b>
+        <img src="https://img.youtube.com/vi/i1Fs0Ufeboc/maxresdefault.jpg" width="100%" alt="Data Analysis"/>
       </a>
+      <br/>
+      <b>📈 Análisis de Datos</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=kqwxlIPkx0s">
-        <img src="https://img.youtube.com/vi/kqwxlIPkx0s/maxresdefault.jpg" width="100%" alt="Video 4"/>
-        <br/>
-        <b>Python Automation</b>
+        <img src="https://img.youtube.com/vi/kqwxlIPkx0s/maxresdefault.jpg" width="100%" alt="Python Automation"/>
       </a>
+      <br/>
+      <b>🐍 Automatización con Python</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=i_Iclo6_djg">
-        <img src="https://img.youtube.com/vi/i_Iclo6_djg/maxresdefault.jpg" width="100%" alt="Video 5"/>
-        <br/>
-        <b>JavaScript Charts</b>
+        <img src="https://img.youtube.com/vi/i_Iclo6_djg/maxresdefault.jpg" width="100%" alt="JavaScript Charts"/>
       </a>
+      <br/>
+      <b>📊 Gráficos con JavaScript</b>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=Ezj9aN2xD7w">
-        <img src="https://img.youtube.com/vi/Ezj9aN2xD7w/maxresdefault.jpg" width="100%" alt="Video 6"/>
-        <br/>
-        <b>Full Stack Dev</b>
+        <img src="https://img.youtube.com/vi/Ezj9aN2xD7w/maxresdefault.jpg" width="100%" alt="Full Stack"/>
       </a>
+      <br/>
+      <b>💻 Desarrollo Full Stack</b>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://www.youtube.com/@JuancitoPenaV?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/🔔_Suscríbete_al_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
+    <img src="https://img.shields.io/badge/🔔_Suscríbete_al_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suscríbete"/>
   </a>
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCYourChannelID?style=for-the-badge&logo=youtube&logoColor=white&label=Suscriptores&color=FF0000" alt="Subscribers"/>
-  <img src="https://img.shields.io/youtube/channel/views/UCYourChannelID?style=for-the-badge&logo=youtube&logoColor=white&label=Visualizaciones&color=FF0000" alt="Views"/>
 </p>
+
+<div align="center">
+  
+### 📺 Más de 100+ Tutoriales de Data Science, Python, SQL y Desarrollo Web
+
+[🎬 Ver Todos los Videos](https://www.youtube.com/@JuancitoPenaV/videos)
+
+</div>
 
 ---
 
