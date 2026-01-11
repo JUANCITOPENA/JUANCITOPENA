@@ -21,6 +21,28 @@
 </p>
 
 ---
+## 📊 Mis Estadísticas en GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JUANCITOPENA&theme=dark&hide_border=true)
+
+---
+
+## 🏆 Trofeos de GitHub
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=dracula&no-frame=true)
+
+---
+
+## 👀 Contador de Visitas
+
+![Profile Views](https://komarev.com/ghpvc/?username=JUANCITOPENA&style=flat-square)
+
+
+
 
 ## 🚀 Sobre Mí
 
