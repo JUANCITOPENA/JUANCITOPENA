@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0077B5,ff0055&height=250&section=header&text=Juancito%20Peña&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Full%20Stack%20Architect&descAlignY=55&descAlign=50" alt="Header Juancito Peña" />
 </div>
 
-<h1 align="center">Hola, soy Juancito 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">¡Hola, soy Juancito! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <h3 align="center">
   <a href="https://www.linkedin.com/in/juancitope%C3%B1a/">
@@ -18,9 +18,23 @@
 
 <p align="center">
   <b>Ingeniero de Software & Científico de Datos</b><br>
-  Transformando la complejidad de los datos en soluciones de negocio rentables.<br>
-  <i>.NET MAUI • Power BI • Python AI • SQL Server</i>
+  Con más de <b>15 años de experiencia</b> en industrias de manufactura, consumo masivo y tecnología.
+  <br>
+  Me especializo en transformar datos complejos en <b>decisiones estratégicas</b> y automatizar procesos operativos.
+  <br><br>
+  <i>🚀 Transformación Digital • 🤖 Automatización IA • 📊 Business Intelligence</i>
 </p>
+
+---
+
+<h2 align="center">🎓 Formación Académica</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Universidad-O%26M-0077B5?style=flat-square&logo=bookstack&logoColor=white" />
+  <br>
+  <b>🧠 Ingeniería en Sistemas y Computación</b><br>
+  <b>💻 Postgrado en Ing. de Software</b> • <b>📊 Maestría en Gestión Gerencial</b>
+</div>
 
 ---
 
@@ -57,20 +71,19 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  
+  <br> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Excel_Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
+  <br> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  
+  <br> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ---
@@ -88,7 +101,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
         <br>
-        <i>Tu propio analista de datos personal automatizado con IA.</i>
+        <i>Asistente inteligente que analiza Excel/CSV automáticamente.</i>
       </p>
     </td>
     <td width="50%" align="center">
@@ -100,7 +113,7 @@
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
         <br>
-        <i>Dashboard End-to-End con conexión a base de datos real.</i>
+        <i>Dashboard End-to-End con conexión SQL en tiempo real.</i>
       </p>
     </td>
   </tr>
@@ -109,19 +122,16 @@
 ---
 
 <div align="center">
-  <h3>🌐 Red de Contactos</h3>
+  <h3>🌐 Social Proof</h3>
   
   <a href="https://github.com/JUANCITOPENA?tab=followers">
     <img src="https://img.shields.io/github/followers/JUANCITOPENA?label=Seguidores&style=for-the-badge&color=238636&logo=github" />
   </a>
   <a href="https://github.com/JUANCITOPENA?tab=repositories">
-    <img src="https://img.shields.io/github/stars/JUANCITOPENA?label=Estrellas%20Totales&style=for-the-badge&color=e3b341&logo=github" />
-  </a>
-  <a href="https://github.com/JUANCITOPENA?tab=following">
-    <img src="https://img.shields.io/github/following/JUANCITOPENA?label=Siguiendo&style=for-the-badge&color=lightgrey&logo=github" />
+    <img src="https://img.shields.io/github/stars/JUANCITOPENA?label=Estrellas&style=for-the-badge&color=e3b341&logo=github" />
   </a>
 
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=VISTAS+DEL+PERFIL&color=fe428e&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=VISITAS+AL+PERFIL&color=fe428e&style=for-the-badge" alt="Profile Views" />
 </div>
