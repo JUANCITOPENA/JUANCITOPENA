@@ -25,9 +25,28 @@
 Con **+15 años de experiencia**, mi perfil combina la ingeniería de software con la ciencia de datos. No solo construyo aplicaciones, sino que diseño los ecosistemas analíticos que permiten tomar decisiones estratégicas basadas en información real.
 
 **Mis Enfoques Principales:**
-* **Desarrollo Full Stack:** Aplicaciones Web y Móviles robustas.
+* **Desarrollo Full Stack:** Aplicaciones Web y Móviles robustas (.NET / JS).
 * **Data Analytics & BI:** Dashboards interactivos y análisis de datos End-to-End.
-* **IA Aplicada:** Integración de APIs de Inteligencia Artificial (Gemini/OpenAI) para automatizar procesos.
+* **IA Aplicada:** Integración de APIs de Inteligencia Artificial (Gemini/OpenAI).
+
+---
+
+### 🎓 Formación Académica
+
+**🏛️ Universidad Dominicana O&M**
+
+* 🧠 **Ingeniería en Sistemas y Computación**
+* 💻 **Postgrado en Ingeniería de Sistemas** (Especialización en Desarrollo de Software)
+* 📊 **Maestría en Sistemas** (Mención en Gestión Gerencial)
+
+---
+
+### 🛠️ Stack Tecnológico
+
+| **Área** | **Tecnologías** |
+| :--- | :--- |
+| **📊 BI & Data** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **💻 Dev & AI** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) |
 
 ---
 
@@ -62,20 +81,38 @@ Con **+15 años de experiencia**, mi perfil combina la ingeniería de software c
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 📊 Desempeño en GitHub
 
-| **Área** | **Tecnologías** |
-| :--- | :--- |
-| **📊 BI & Data** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| **💻 Dev & AI** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) |
+<div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=9f9f9f&icon_color=0077B5" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=9f9f9f" alt="Top Languages" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JUANCITOPENA&theme=transparent&hide_border=true&ring=0077B5&currStreakLabel=0077B5&fire=FF0000" alt="GitHub Streak" />
+  </a>
+
+</div>
 
 ---
 
-### 📈 Métricas de GitHub
+### 🏆 Logros y Reconocimientos
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUANCITOPENA&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=999&icon_color=0077B5" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANCITOPENA&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=999" height="150" alt="Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=flat&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JUANCITOPENA&label=VISTAS+DEL+PERFIL&color=0077B5&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
