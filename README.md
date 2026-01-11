@@ -24,45 +24,14 @@
 
 ## 🚀 Sobre Mí
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.nombre = "Juancito Peña"
-        self.rol = "Data Scientist | Full Stack Architect"
-        self.experiencia = "15+ años"
-        self.ubicacion = "Santo Domingo, República Dominicana 🇩🇴"
-        self.educacion = {
-            "universidad": "Universidad Dominicana O&M",
-            "titulos": [
-                "🎓 Ingeniería en Sistemas y Computación",
-                "📚 Postgrado en Desarrollo de Software",
-                "🎯 Maestría en Sistemas - Gestión Gerencial"
-            ]
-        }
-        
-    def habilidades_clave(self):
-        return {
-            "Analisis_Datos": ["Python", "R", "SQL", "Power BI", "Tableau"],
-            "Backend": ["Django", "Flask", "FastAPI", "Node.js", ".NET Core"],
-            "Frontend": ["React", "Next.js", "TypeScript", "JavaScript"],
-            "IA_ML": ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
-            "Cloud_DevOps": ["AWS", "Docker", "Git", "CI/CD"],
-            "Metodologias": ["Scrum", "Kanban", "TDD", "Agile"]
-        }
-    
-    def industrias_experiencia(self):
-        return ["Manufactura 🏭", "Bebidas 🍷🥤", "Alimentos 🍴", 
-                "Tecnología 💻", "Educación 🎓"]
-    
-    def mision(self):
-        return """Transformar datos en insights accionables, 
-                  automatizar procesos y liderar la transformación digital 
-                  para maximizar eficiencia, reducir costos y aumentar ingresos."""
+# ¡Hola, soy Juancito Peña! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-# Inicializar perfil
-juancito = DataScientist()
-print(juancito.mision())
-```
+#### 📊 Analista de Datos | 💻 Desarrollador Full-Stack | 🤖 Entusiasta de la IA | 🚀 Impulsor de la Transformación Digital
+
+Con más de 15 años de trayectoria, he navegado por industrias diversas como el plástico 🏭, bebidas alcohólicas 🍷 y azucaradas 🥤, alimentos 🍴, tecnología 💻 y educación profesional 🎓. Mi pasión radica en la **gestión de automatización** 🤖 y el **análisis de datos** 📊, transformando datos crudos en insights accionables y optimizando procesos para impulsar la eficiencia operativa 🚀.
+
+Busco constantemente resolver desafíos complejos con **tecnologías innovadoras** 🛠️, con el objetivo de reducir costos 💰, asegurar servicios de alta calidad ✅ y potenciar ingresos mediante **estrategias disruptivas y transformación digital** 🌐.
+
 
 ---
 
@@ -86,22 +55,10 @@ print(juancito.mision())
 
 ## 🏆 Logros y Reconocimientos
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" />
-</div>
 
-<br>
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUANCITOPENA&theme=github_dark" alt="Profile Details" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JUANCITOPENA&theme=github_dark&utcOffset=-4" alt="Productive Time" />
-</div>
 
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JUANCITOPENA&theme=github_dark" alt="Repos Per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JUANCITOPENA&theme=github_dark" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JUANCITOPENA&theme=github_dark" alt="Stats" />
-</div>
+--
 
 ---
 
