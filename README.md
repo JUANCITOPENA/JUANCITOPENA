@@ -24,14 +24,27 @@
 
 ## 🚀 Sobre Mí
 
-# ¡Hola, soy Juancito Peña! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Soy **Juancito Peña**, un **Data Scientist y Full Stack Architect** con más de **15 años de experiencia** transformando datos en decisiones estratégicas y desarrollando soluciones tecnológicas innovadoras. Ubicado en **Santo Domingo, República Dominicana** 🇩🇴, combino mi sólida formación académica con experiencia práctica en múltiples industrias.
 
-#### 📊 Analista de Datos | 💻 Desarrollador Full-Stack | 🤖 Entusiasta de la IA | 🚀 Impulsor de la Transformación Digital
+### 🎓 Formación Académica
+**Universidad Dominicana O&M**
+- 🎓 **Ingeniería en Sistemas y Computación**
+- 📚 **Postgrado en Ingeniería de Sistemas** (Especialización en Desarrollo de Software)
+- 🎯 **Maestría en Sistemas** con Mención en Gestión Gerencial
 
-Con más de 15 años de trayectoria, he navegado por industrias diversas como el plástico 🏭, bebidas alcohólicas 🍷 y azucaradas 🥤, alimentos 🍴, tecnología 💻 y educación profesional 🎓. Mi pasión radica en la **gestión de automatización** 🤖 y el **análisis de datos** 📊, transformando datos crudos en insights accionables y optimizando procesos para impulsar la eficiencia operativa 🚀.
+### 💼 Experiencia Multisectorial
+He liderado proyectos de transformación digital en diversas industrias: **Manufactura** 🏭, **Bebidas alcohólicas y azucaradas** 🍷🥤, **Alimentos** 🍴, **Tecnología** 💻 y **Educación Profesional** 🎓. Esta diversidad me ha permitido desarrollar una visión integral de los procesos de negocio y las necesidades tecnológicas específicas de cada sector.
 
-Busco constantemente resolver desafíos complejos con **tecnologías innovadoras** 🛠️, con el objetivo de reducir costos 💰, asegurar servicios de alta calidad ✅ y potenciar ingresos mediante **estrategias disruptivas y transformación digital** 🌐.
+### 🎯 Mi Misión
+Transformar datos en **insights accionables**, automatizar procesos complejos y liderar la **transformación digital** para maximizar la eficiencia operativa, reducir costos y potenciar los ingresos de las organizaciones mediante estrategias innovadoras y tecnología de vanguardia.
 
+### 💡 Áreas de Especialización
+**📊 Análisis de Datos & BI:** Python • R • SQL • Power BI • Tableau  
+**⚙️ Backend Development:** Django • Flask • FastAPI • Node.js • .NET Core  
+**🎨 Frontend Development:** React • Next.js • TypeScript • JavaScript  
+**🤖 IA & Machine Learning:** TensorFlow • Scikit-learn • Pandas • NumPy  
+**☁️ Cloud & DevOps:** AWS • Docker • Git • CI/CD  
+**📋 Metodologías Ágiles:** Scrum • Kanban • TDD • Agile
 
 ---
 
@@ -55,10 +68,22 @@ Busco constantemente resolver desafíos complejos con **tecnologías innovadoras
 
 ## 🏆 Logros y Reconocimientos
 
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=JUANCITOPENA&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" />
+</div>
 
+<br>
 
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JUANCITOPENA&theme=github_dark" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JUANCITOPENA&theme=github_dark&utcOffset=-4" alt="Productive Time" />
+</div>
 
---
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JUANCITOPENA&theme=github_dark" alt="Repos Per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JUANCITOPENA&theme=github_dark" alt="Most Commit Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JUANCITOPENA&theme=github_dark" alt="Stats" />
+</div>
 
 ---
 
