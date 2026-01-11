@@ -24,14 +24,16 @@ Especialista en análisis de datos, inteligencia de negocios y educación aplica
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- Puedes usar GitHub Readme Stats aquí -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuancitoPena&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuancitoPena&layout=compact&theme=radical" />
 </p>
 
+![Metrics](https://metrics.lecoq.io/JuancitoPena?template=classic&languages=1&stars=1&followup=1&repositories=1&activity=1&introduction=1&isocalendar=1&lines=1&habits=1&people=1&gists=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSanto_Domingo)
+
+ 
 ---
 
 ### 🎓 Formación académica
